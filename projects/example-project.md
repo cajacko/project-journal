@@ -1,6 +1,12 @@
 # Example project title
 
-Latest description of what this project is and what state it's in.
+Latest description of what this project is and what state it's in. Including links.
+
+## Next Steps
+
+Section to explain what to work on next
+
+- [Will fill in when 1st sprint is complete]
 
 ## Updates
 
