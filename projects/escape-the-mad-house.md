@@ -10,7 +10,8 @@ Still very much in a prototype stage, no artwork yet.
 
 ## Next Steps
 
-- [Will fill in when 1st sprint is complete]
+- More play tests
+- Experiment with different personality and reaction cards and combinations
 
 ## Updates
 
@@ -18,7 +19,8 @@ Still very much in a prototype stage, no artwork yet.
 
 ### 2019-08-05 - 2019-08-18
 
-[In Progress]
+This sprint was all about getting the basic idea together into a playable state and to start
+play testing so we can see what needs to happen next.
 
 #### Goals
 
@@ -29,7 +31,7 @@ tested by anyone. And to do a few play tests and refine the rules/resources acco
 - [x] 1st play test
 - [x] Create enough cards for a 4 person play test
 - [ ] Do the 4 person play test
-- [ ] Write up all cards from play test into GitHub so it's all documented
-- [ ] Write up new rules from play test v0.2.0
+- [x] Write up all cards from play test into GitHub so it's all documented
+- [x] Write up new rules from play test v0.2.0
 - [ ] Play test with v0.2.0
 - [ ] Update rules and cards from play test v0.3.0

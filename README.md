@@ -7,8 +7,8 @@ work I did on a project.
 ## Projects
 
 - Board Games
-  - [Escape the Mad House](projects/escape-the-mad-house.md) (In Progress)
+  - [Escape the Mad House](projects/escape-the-mad-house.md)
 
 ## Journal
 
-- [(2019-08-05 - 2019-08-18) Example Project](projects/escape-the-mad-house.md#2019-08-05---2019-08-18) - In Progress
+- [(2019-08-05 - 2019-08-18) Escape the Mad House](projects/escape-the-mad-house.md#2019-08-05---2019-08-18)

@@ -12,6 +12,15 @@ Section to explain what to work on next
 
 ---
 
+[Current]
+
+Description of the changes that happened during this period.
+
+#### Goals
+
+- [x] The first goal from this period
+- [ ] Additional goals from this period
+
 ### 2019-08-01 - 2019-08-14
 
 Description of the changes that happened during this period.
