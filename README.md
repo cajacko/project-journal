@@ -11,5 +11,5 @@ work I did on a project.
 
 ## Journal
 
-- [(2019-08-22 - 2019-09-06) Tower Defense](projects/tower-defense.md#current)
+- [(2019-08-22 - 2019-09-06) Tower Defense](projects/tower-defense.md#current) (in progress)
 - [(2019-08-05 - 2019-08-18) Escape the Mad House](projects/escape-the-mad-house.md#2019-08-05---2019-08-18)
