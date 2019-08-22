@@ -12,7 +12,7 @@ Section to explain what to work on next
 
 ---
 
-[Current]
+### Current
 
 Description of the changes that happened during this period.
 
