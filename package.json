@@ -6,17 +6,9 @@
   "author": "Charlie Jackson <contact@charliejackson.com>",
   "license": "MIT",
   "scripts": {
-    "test": "node __tests__/lint.js"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn test",
-      "pre-push": "yarn test"
-    }
+    "test": "remark -u validate-links . --frail"
   },
   "dependencies": {
-    "glob-fs": "^0.1.7",
-    "husky": "^3.0.4",
     "remark-cli": "^7.0.0",
     "remark-validate-links": "^9.0.1"
   }
