@@ -6,7 +6,7 @@
   "author": "Charlie Jackson <contact@charliejackson.com>",
   "license": "MIT",
   "scripts": {
-    "test": "remark -u validate-links . --frail",
+    "test": "remark --frail -u validate-links .",
     "pre-commit": "yarn test"
   },
   "dependencies": {
