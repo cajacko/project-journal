@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "test": "remark --frail -u validate-links .",
-    "pre-commit": "yarn test"
+    "pre-commit": "yarn test --frail"
   },
   "dependencies": {
     "husky": "^3.0.4",
