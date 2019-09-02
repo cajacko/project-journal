@@ -35,3 +35,7 @@ tested by anyone. And to do a few play tests and refine the rules/resources acco
 - [x] Write up new rules from play test v0.2.0
 - [ ] Play test with v0.2.0
 - [ ] Update rules and cards from play test v0.3.0
+
+#### Media
+
+![Escape the Mad House v3](../assets/escape-the-madhouse-v3.jpg)
