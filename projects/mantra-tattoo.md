@@ -14,7 +14,7 @@ Here's a list of the current mantra in the tattoo:
 
 And an image describing the images:
 
-![Phase 1 Mantra Tattoo Explanation](../assets/mantra-tattoo-phase-1-explanation.png)
+<img src="../assets/mantra-tattoo-phase-1-explanation.png" alt="Phase 1 Mantra Tattoo Explanation" height="500" />
 
 ## Next Steps ⏭
 
@@ -45,4 +45,4 @@ Unlike the first phase which was entirely designed by me, I did some initial des
 
 #### Media 🖼
 
-![Phase 2 Mantra Tattoo Design](../assets/mantra-tattoo-phase-2-design.jpg)
+<img src="../assets/mantra-tattoo-phase-2-design.jpg" alt="Phase 2 Mantra Tattoo Design" height="500" />
