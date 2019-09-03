@@ -1,19 +1,19 @@
-# Escape the Mad House
+# Escape the Mad House 🏚
 
-A co-operative card game of improvised stories and escaping ridiculous situations. Basically a
-co-operative version of bucket of doom but with a single journey/loose narrative. And a specific end
+A co-operative card game 🃏 of improvised stories and escaping ridiculous situations. Basically a
+co-operative version of Bucket of Doom but with a single journey/loose narrative. And a specific end
 situation.
 
 Currently in a playable state if you go to the project on
 [GitHub](https://github.com/cajacko/escape-the-mad-house) and print/write out the resource cards.
 Still very much in a prototype stage, no artwork yet.
 
-## Next Steps
+## Next Steps ⏭
 
 - More play tests
 - Experiment with different personality and reaction cards and combinations
 
-## Updates
+## Updates 🔼
 
 ---
 
@@ -22,7 +22,7 @@ Still very much in a prototype stage, no artwork yet.
 This sprint was all about getting the basic idea together into a playable state and to start
 play testing so we can see what needs to happen next.
 
-#### Goals
+#### Goals 🥅
 
 The goals for this first sprint are to get some basic rules and resources up so the game can be play
 tested by anyone. And to do a few play tests and refine the rules/resources accordingly.
@@ -36,6 +36,6 @@ tested by anyone. And to do a few play tests and refine the rules/resources acco
 - [ ] Play test with v0.2.0
 - [ ] Update rules and cards from play test v0.3.0
 
-#### Media
+#### Media 🖼
 
 ![Escape the Mad House v3](../assets/escape-the-madhouse-v3.jpg)

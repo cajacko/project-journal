@@ -2,13 +2,13 @@
 
 Latest description of what this project is and what state it's in. Including links.
 
-## Next Steps
+## Next Steps ⏭
 
 Section to explain what to work on next
 
 - [Will fill in when 1st sprint is complete]
 
-## Updates
+## Updates 🔼
 
 ---
 
@@ -16,7 +16,7 @@ Section to explain what to work on next
 
 Description of the changes that happened during this period.
 
-#### Goals
+#### Goals 🥅
 
 - [x] The first goal from this period
 - [ ] Additional goals from this period
@@ -25,10 +25,12 @@ Description of the changes that happened during this period.
 
 Description of the changes that happened during this period.
 
-#### Goals
+#### Goals 🥅
 
 - [x] The first goal from this period
 - [ ] Additional goals from this period
+
+#### Media 🖼
 
 ---
 
@@ -36,7 +38,9 @@ Description of the changes that happened during this period.
 
 Description of the changes that happened during this period.
 
-#### Goals
+#### Goals 🥅
 
 - [x] The first goal from this period
 - [ ] Additional goals from this period
+
+#### Media 🖼
