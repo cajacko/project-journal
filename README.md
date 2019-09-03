@@ -9,6 +9,8 @@ work I did on a project.
 - Board Games 🎲
   - [Escape the Mad House](projects/escape-the-mad-house.md) 🏚
   - [Tower Defense](projects/tower-defense.md) 🗼
+- Miscellaneous
+  - [Mantra Tattoo](projects/mantra-tattoo.md) 🖌
 
 ## Journal
 
@@ -20,5 +22,5 @@ work I did on a project.
 -->
 
 - [(2019-08-22 - 2019-09-03) Tower Defense](projects/tower-defense.md#2019-08-22---2019-09-03) - Initial playable version 🎲
-- [(2019-08-05 - 2019-08-18) Escape the Mad House](projects/escape-the-mad-house.md#2019-08-05---2019-08-18) - Initial playable version
+- [(2019-07-01 - 2019-08-30) Mantra Tattoo](projects/mantra-tattoo.md#2019-07-01---2019-08-30) - 2nd phase designs 🖌
 - [(2019-08-05 - 2019-08-18) Escape the Mad House](projects/escape-the-mad-house.md#2019-08-05---2019-08-18) - Initial playable version 🎲
