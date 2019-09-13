@@ -8,9 +8,9 @@ My more recent writing can be found on [GitHub](https://github.com/cajacko/writi
 
 ---
 
-### Current
+### 2019-08-27 - 2019-09-09
 
-[Shady Business](https://github.com/cajacko/writing/blob/shady-business/writing/shady-business.md) ⛱ A strange short fiction piece inspired by an improvised comedy scene I did in a show about recruiting people to provide shade. If that doesn't make sense, read the post and be more confused.
+[Shady Business](https://github.com/cajacko/writing/blob/master/writing/shady-business.md) ⛱ A strange short fiction piece inspired by an improvised comedy scene I did in a show about recruiting people to provide shade. If that doesn't make sense, read the post and be more confused.
 
 ---
 
