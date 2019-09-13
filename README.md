@@ -7,6 +7,7 @@ work I did on a project.
 ## Projects
 
 - Board Games 🎲
+  - [World Building RPG](projects/world-building-rpg.md) 🌍 (Sep 2019)
   - [Escape the Mad House](projects/escape-the-mad-house.md) 🏚 (Aug 2019)
   - [Tower Defense](projects/tower-defense.md) 🗼 (Sep 2019)
 - [Writing](projects/writing.md) 📚 (Sep 2019)
@@ -25,6 +26,7 @@ work I did on a project.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [(2019-09-10 - ...) World Building RPG](projects/world-building-rpg.md#current) 🌍 RPG board game focussed on world building (Sep 2019) in progress
 - [(2019-08-27 - 2019-09-09) Writing](projects/writing.md#2019-08-27---2019-09-09) - Shady Business ⛱ (short fiction piece)
 - [(2019-09-03 - 2019-09-06) Commit CLI](projects/commit.md#2019-09-03---2019-09-06) - Migrated to commitizen and added global suggestions 💻
 - [(2019-08-22 - 2019-09-03) Tower Defense](projects/tower-defense.md#2019-08-22---2019-09-03) - Initial playable version 🎲
