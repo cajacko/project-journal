@@ -6,6 +6,7 @@ work I did on a project.
 
 ## Projects
 
+- [Comedy](projects/comedy.md) 🎭 (Oct 2019)
 - Board Games 🎲
   - [Vigilantes](projects/vigilantes.md) 🦹‍♂️ (Oct 2019)
   - [Escape the Mad House](projects/escape-the-mad-house.md) 🏚 (Aug 2019)
@@ -26,6 +27,7 @@ work I did on a project.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [(2019-10-05 - ...) Comedy](projects/comedy.md#current) 🎤 Stand up comedy course and prep for a show on 23rd Oct (Oct 2019) In progress
 - [(2019-09-10 - 2019-10-04) Vigilantes](projects/vigilantes.md#2019-09-10---2019-10-04) 🦹‍♂️ Initial ruleset (Oct 2019)
 - [(2019-08-27 - 2019-09-09) Writing](projects/writing.md#2019-08-27---2019-09-09) - Shady Business ⛱ (short fiction piece)
 - [(2019-09-03 - 2019-09-06) Commit CLI](projects/commit.md#2019-09-03---2019-09-06) - Migrated to commitizen and added global suggestions 💻
