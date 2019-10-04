@@ -1,6 +1,6 @@
 # Vigilantes 🦹‍♂️
 
-Vigilantes is a co-operative board game where players get to start as normal people trying to make the city a better place. As you play you gain abilities and gadgets to turn you into a super hero. Theses changes persist between playing sessions. Unfortunately the villains you play against also improve over time and the locations in the city you play on start getting destroyed by the villains and their henchmen.
+Vigilantes is a co-operative board game where players get to start as normal people trying to make the city a better place. As you play you gain abilities and gadgets to turn you into a super hero 🦹‍♂️. Theses changes persist between playing sessions. Unfortunately the villains 😈 you play against also improve over time and the locations in the city you play on start getting destroyed by the villains and their henchmen.
 
 You can find the project [here on GitHub](https://github.com/cajacko/vigilantes).
 
@@ -25,3 +25,8 @@ The was the first sprint on this project and was focussed on refining my ideas a
 - [ ] Have a super simple playable version focussed on the core concepts
 - [x] Write up the initial rule set
 - [x] Write up a comprehensive set up ordered uncertainties and next steps
+
+#### Media
+
+![Vigilantes Prototype](../assets/vigilantes-prototype-001.jpg)
+![Vigilantes Prototype](../assets/vigilantes-prototype-002.jpg)
