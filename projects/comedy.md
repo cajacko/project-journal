@@ -4,8 +4,6 @@ In Jan 2015 I started getting into improvised comedy 😂🎭, and since have be
 
 ## Current Comedy Projects
 
-- Clusterfox
-  - A long form improvised comedy group. Joined in Dec 2018, we've played shows at the Camden Fringe, bringing our conspiracy themed show Wake Up Sheeple!
 - Velociraptor
   - A musical improvised comedy group. We do scenes that end in improvised songs! Started in 2019 we've done multiple shows all inspired from what you do on a normal Sunday.
 - NoScript/Smoosh
@@ -15,6 +13,8 @@ In Jan 2015 I started getting into improvised comedy 😂🎭, and since have be
 
 ## Previous Comedy Projects
 
+- Clusterfox
+  - A long form improvised comedy group. Joined Dec 2018 - Oct 2019, we've played shows at the Camden Fringe, bringing our conspiracy themed show Wake Up Sheeple!
 - Clowning
   - In 2019 I did about 12 weeks of clowning courses, resulting in a 5minute solo show at the end.
 - And Now
