@@ -8,6 +8,12 @@ My more recent writing can be found on [GitHub](https://github.com/cajacko/writi
 
 ---
 
+### 2019-09-09 - 2019-10-28
+
+[Why I Don't Vote](https://github.com/cajacko/writing/blob/master/writing/no-voting.md) 🚫 Controversial post exploring the reasons why I don't vote.
+
+---
+
 ### 2019-08-27 - 2019-09-09
 
 [Shady Business](https://github.com/cajacko/writing/blob/master/writing/shady-business.md) ⛱ A strange short fiction piece inspired by an improvised comedy scene I did in a show about recruiting people to provide shade. If that doesn't make sense, read the post and be more confused.

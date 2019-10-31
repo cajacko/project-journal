@@ -1,31 +1,97 @@
-# Comedy 🎭
+# Comedy
 
 In Jan 2015 I started getting into improvised comedy 😂🎭, and since have been in numerous comedy groups, performing a lot around London 🇬🇧 and the occasional international gig 🇫🇮🇩🇪. Since this I've explored stand up 🎤, clowning 🤡 and musical 🎼 comedy as well. Below is a run down of my active and past comedy groups or projects.
 
+- [Comedy](#comedy)
+  - [Current Comedy Projects](#current-comedy-projects)
+    - [Velociraptor](#velociraptor)
+    - [NoScript and Smoosh](#noscript-and-smoosh)
+    - [Stand Up](#stand-up)
+  - [Previous Comedy Projects](#previous-comedy-projects)
+    - [Clusterfox](#clusterfox)
+    - [Clowning](#clowning)
+    - [And Now](#and-now)
+    - [SuperCouth](#supercouth)
+  - [Show History](#show-history)
+  - [Courses](#courses)
+
 ## Current Comedy Projects
 
-- Velociraptor
-  - A musical improvised comedy group. We do scenes that end in improvised songs! Started in 2019 we've done multiple shows all inspired from what you do on a normal Sunday.
-- NoScript/Smoosh
-  - NoScript is the programming (Specifically React.JS and JavaScript) based improv comedy house team for Smoosh (A comedy night by programmers for programmers). We started with the first Smoosh event in 2018 and have played every Smoosh, including our own nights, private events, various conferences and overseas (React Berlin, React Finland).
-- Stand Up
-  - A new endeavour of mine, I'm currently taking an 8 week stand up course with a show at the end. Who knows where this will lead.
+### Velociraptor
+
+A musical improvised comedy group. We do scenes that end in improvised songs! Started in 2019 we've done multiple shows all inspired from what you do on a normal Sunday.
+
+### NoScript and Smoosh
+
+NoScript is the programming (Specifically React.JS and JavaScript) based improv comedy house team for Smoosh (A comedy night by programmers for programmers). We started with the first Smoosh event in 2018 and have played every Smoosh, including our own nights, private events, various conferences and overseas (React Berlin, React Finland).
+
+### Stand Up
+
+A new endeavour of mine, having got introduced to stand-up via an 8 week intro course, I'm now exploring where this will go.
 
 ## Previous Comedy Projects
 
-- Clusterfox
-  - A long form improvised comedy group. Joined Dec 2018 - Oct 2019, we've played shows at the Camden Fringe, bringing our conspiracy themed show Wake Up Sheeple!
-- Clowning
-  - In 2019 I did about 12 weeks of clowning courses, resulting in a 5minute solo show at the end.
-- And Now
-  - A long form comedy troupe I put together for a run of a few shows in 2017/18
-- SuperCouth
-  - My first long form group, we ran from 2013 to around 2016 (can't quite remember) and did dozens of shows around London.
+### Clusterfox
 
-## Updates 🔼
+A long form improvised comedy group. Joined Dec 2018 - Oct 2019, we've played shows at the Camden Fringe, bringing our conspiracy themed show Wake Up Sheeple!
 
----
+### Clowning
 
-### Current
+In 2019 I did about 12 weeks of clowning courses, resulting in a 5minute solo show at the end.
 
-I'm currently doing a stand up class that results in a show on the 23rd Oct 2019. So this sprint is about the prep work for this.
+### And Now
+
+A long form comedy troupe I put together for a run of a few shows in 2017/18
+
+### SuperCouth
+
+My first long form group, we ran from 2013 to around 2016 (can't quite remember) and did dozens of shows around London.
+
+## Show History
+
+- 2019-10-25 (Brighton, UK) - [Velociraptor](#velociraptor) show at Scoop
+- 2019-10-23 (London, UK) - First [Stand Up](#stand-up) gig
+- 2019-10-14 (London, UK) - [Velociraptor](#velociraptor) show at Duck Duck goose
+- 2019-09-28 (London, UK) - [Velociraptor](#velociraptor) show at the Hoopla Improv Marathon
+- 2019-09-28 (London, UK) - [Clusterfox](#clusterfox) show at the Hoopla Improv Marathon
+- 2019-08-31 (London, UK) - [Velociraptor](#velociraptor) show at Swipe Right's Summer Fling
+- 2019-08-24 (London, UK) - [Clusterfox](#clusterfox) presents Wake Up Sheeple! at the Camden Fringe
+- 2019-08-23 (London, UK) - [Clusterfox](#clusterfox) presents Wake Up Sheeple! at the Camden Fringe
+- 2019-08-03 (London, UK) - [Clusterfox](#clusterfox) presents Wake Up Sheeple! at the Camden Fringe
+- 2019-08-02 (London, UK) - [Clusterfox](#clusterfox) presents Wake Up Sheeple! at the Camden Fringe
+- 2019-07-12 (London, UK) - [Velociraptor](#velociraptor) show at the Hoopla pre-party
+- 2019-07-08 (London, UK) - [Velociraptor](#velociraptor) show at the Wenlock and Essex
+- 2019-07-05 (London, UK) - Solo [clown](#clowning) show at RH and Friends
+- 2019-06-17 (London, UK) - Corporate [NoScript](#noscript-and-smoosh) and Smoosh show
+- 2019-05-03 (London, UK) - [NoScript](#noscript-and-smoosh) and Smoosh show as CityJS Conf
+- 2019-04-25 (Helsinki, Finland) - [NoScript](#noscript-and-smoosh) and Smoosh show as React Finland
+- 2019-03-08 (London, UK) - [NoScript](#noscript-and-smoosh) at Smoosh own night
+- 2018-11-30 (Berlin, Germany) - [NoScript](#noscript-and-smoosh) and Smoosh show as React Berlin
+- 2018-10-05 (London, UK) - Solo stand-up bit at Formidable birthday event
+- 2018-05-28 (London, UK) - [And Now](#and-now) show at Duck Duck Goose
+- 2018-05-17 (Paris, France) - Comedy talk at React Europe 2018
+- 2018-04-12 (London, UK) - [And Now](#and-now) show
+- 2018-04-06 (London, UK) - [NoScript](#noscript-and-smoosh) at Smoosh own night
+- 2018-04-04 (London, UK) - Random show at C3
+
+And about a dozen or so older shows I can't remember.
+
+## Courses
+
+- Hoopla - Stand-up Course (2019)
+- The Maydays - September Improv Comedy Retreat (2019)
+- Free Association - Improv Comedy Level 2 Course (2019)
+- Hoopla - Clowning Level 2 Course (2019)
+- No Name - Hip Hop Improv Comedy Workshop (2019)
+- Hoopla - Clowning Level 1 Course (2019)
+- The Maydays - March Improv Comedy Retreat (2019)
+- North Coast - Hip Hop Improv Comedy Workshop (2018)
+- Hoopla - Improv Comedy Character Course (2018)
+- Hoopla - Wayfinders Improv Comedy Course (2017/2018)
+- Monkey Toast - Improv Comedy Course Level 3 (2017 - unfinished)
+- Hoopla - Musical Improv Comedy Course (2017)
+- Monkey Toast - Improv Comedy Course Level 2 (2017)
+- Monkey Toast - Improv Comedy Course Level 1 (2016)
+- Spontaneity Shop - Improv Comedy Course Level 2b (2015)
+- Spontaneity Shop - Improv Comedy Course Level 2a (2015)
+- Spontaneity Shop - Improv Comedy Course Level 1 (2015)
