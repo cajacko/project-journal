@@ -8,6 +8,7 @@ work I did on a project.
 
 - [Comedy](projects/comedy.md) 🎭 (Oct 2019)
 - Board Games 🎲
+  - [Random Event](projects/random-event.md) 🧙‍♂️ (Nov 2019)
   - [Vigilantes](projects/vigilantes.md) 🦹‍♂️ (Oct 2019)
   - [Escape the Mad House](projects/escape-the-mad-house.md) 🏚 (Aug 2019)
   - [Tower Defense](projects/tower-defense.md) 🗼 (Sep 2019)
@@ -28,6 +29,7 @@ work I did on a project.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [(2019-11-07 - 2019-11-10) Random Event](projects/random-event.md#2019-11-07---2019-11-10) 🧙‍♂️ Had a bunch of brainstorming and play testing of new ideas
 - [(2019-11-03 - 2019-11-05) Drawing](projects/drawing.md#2019-11-03---2019-11-05) ✏️ Drew a neon line art image of Iron man merged with Batman
 - [(2019-08-28 - 2019-10-25) Comedy](projects/comedy.md#courses) 🎤 Stand up comedy course and prep for a show on 23rd Oct
 - [(2019-09-09 - 2019-10-28) Writing](projects/writing.md#2019-09-09---2019-10-28) - Why I Don't Vote 🚫`
