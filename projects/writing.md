@@ -8,6 +8,10 @@ My more recent writing can be found on [GitHub](https://github.com/cajacko/writi
 
 ---
 
+### 2019-10-15 - 2019-11-11
+
+[Stop Forgetting, Employ the Machines!](https://github.com/cajacko/writing/blob/master/writing/forgetting.md) 🤖 Short post talking about keeping track of life admin.
+
 ### 2019-09-09 - 2019-10-28
 
 [Why I Don't Vote](https://github.com/cajacko/writing/blob/master/writing/no-voting.md) 🚫 Controversial post exploring the reasons why I don't vote.
