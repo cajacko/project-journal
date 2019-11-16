@@ -29,6 +29,8 @@ work I did on a project.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [(2019-11-11 - Current) Miniature Gaming and Modelling](projects/miniatures.md#current) - Getting back into WarHammer, modelling and painting 👨‍🎨
+- [(2019-11-11 - 2019-11-16) Writing](projects/writing.md#2019-11-11---2019-11-16) - Balancing Alcohol, Drugs and Fun 🍻 (Short post on how fun substances are)
 - [(2019-10-15 - 2019-11-11) Writing](projects/writing.md#2019-10-15---2019-11-11) - Stop Forgetting, Employ the Machines! (Short post talking about keeping track of life admin)
 - [(2019-11-07 - 2019-11-10) Random Event](projects/random-event.md#2019-11-07---2019-11-10) 🧙‍♂️ Had a bunch of brainstorming and play testing of new ideas
 - [(2019-11-03 - 2019-11-05) Drawing](projects/drawing.md#2019-11-03---2019-11-05) ✏️ Drew a neon line art image of Iron man merged with Batman

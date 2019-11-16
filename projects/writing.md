@@ -8,6 +8,12 @@ My more recent writing can be found on [GitHub](https://github.com/cajacko/writi
 
 ---
 
+### 2019-11-11 - 2019-11-16
+
+[Balancing Alcohol, Drugs and Fun](https://github.com/cajacko/writing/blob/master/writing/alcohol-drugs.md) 🍻 Drinking and drugs are fun, don't stop but keep the balance.
+
+---
+
 ### 2019-10-15 - 2019-11-11
 
 [Stop Forgetting, Employ the Machines!](https://github.com/cajacko/writing/blob/master/writing/forgetting.md) 🤖 Short post talking about keeping track of life admin.
