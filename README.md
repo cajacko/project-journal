@@ -16,6 +16,7 @@ work I did on a project.
 - Programming
   - [Commit CLI](projects/commit.md) 💻 (Sep 2019)
 - Miscellaneous
+  - [Miniature Gaming and Modelling](projects/miniatures.md) 👨‍🎨 - (Nov 2019)
   - [Drawing](projects/drawing.md) ✏️ (Nov 2019)
   - [Mantra Tattoo](projects/mantra-tattoo.md) 🖌 (Aug 2019)
   - [The Wood Party](projects/the-wood-party.md) 🌲🔥🥳 (Aug 2019)
