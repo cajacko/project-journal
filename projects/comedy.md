@@ -78,6 +78,8 @@ And about a dozen or so older shows I can't remember.
 
 ## Courses
 
+- Hoopla - Story Improv Comedy Course (2019/2020)
+- Track 96 - Hip Hop Improv Comedy Workshop (2019)
 - Hoopla - Stand-up Course (2019)
 - The Maydays - September Improv Comedy Retreat (2019)
 - Free Association - Improv Comedy Level 2 Course (2019)
