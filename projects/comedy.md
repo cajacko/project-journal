@@ -1,6 +1,6 @@
 # Comedy
 
-In Jan 2015 I started getting into improvised comedy 😂🎭, and since have been in numerous comedy groups, performing a lot around London 🇬🇧 and the occasional international gig 🇫🇮🇩🇪. Since this I've explored stand up 🎤, clowning 🤡 and musical 🎼 comedy as well. Below is a run down of my active and past comedy groups or projects.
+In Jan 2013 I started getting into improvised comedy 😂🎭, and since have been in numerous comedy groups, performing a lot around London 🇬🇧 and the occasional international gig 🇫🇮🇩🇪. Since this I've explored stand up 🎤, clowning 🤡 and musical 🎼 comedy as well. Below is a run down of my active and past comedy groups or projects.
 
 - [Comedy](#comedy)
   - [Current Comedy Projects](#current-comedy-projects)
