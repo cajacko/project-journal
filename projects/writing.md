@@ -8,6 +8,18 @@ My more recent writing can be found on [GitHub](https://github.com/cajacko/writi
 
 ---
 
+### 2019-12-02 - 2019-12-10
+
+[Give up all your data](https://github.com/cajacko/writing/blob/master/writing/privacy.md) 📈 Companies need your data!
+
+---
+
+### 2019-11-18 - 2019-12-01
+
+[Killing the Dog](https://github.com/cajacko/writing/blob/master/writing/kill-the-dog.md) 🐶 How mindfulness might help you overcome losing your mind.
+
+---
+
 ### 2019-11-11 - 2019-11-16
 
 [Balancing Alcohol, Drugs and Fun](https://github.com/cajacko/writing/blob/master/writing/alcohol-drugs.md) 🍻 Drinking and drugs are fun, don't stop but keep the balance.

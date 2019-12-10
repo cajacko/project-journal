@@ -49,6 +49,7 @@ My first long form group, we ran from 2013 to around 2016 (can't quite remember)
 
 ## Show History
 
+- 2019-12-09 (London, UK) - [Stand Up](#stand-up) gig at Hoopla Fresh
 - 2019-10-25 (Brighton, UK) - [Velociraptor](#velociraptor) show at Scoop
 - 2019-10-23 (London, UK) - First [Stand Up](#stand-up) gig
 - 2019-10-14 (London, UK) - [Velociraptor](#velociraptor) show at Duck Duck goose
