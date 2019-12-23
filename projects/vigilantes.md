@@ -16,6 +16,8 @@ Section to explain what to work on next
 
 ---
 
+### Current
+
 ### 2019-09-10 - 2019-10-04
 
 The was the first sprint on this project and was focussed on refining my ideas about the game and presenting a basic rule set that can be further simplified and play tested.

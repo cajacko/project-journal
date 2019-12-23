@@ -12,10 +12,19 @@ Still very much in a prototype stage, no artwork yet.
 
 - More play tests
 - Experiment with different personality and reaction cards and combinations
+- Write more scenario/room cards
 
 ## Updates 🔼
 
 ---
+
+### 2019-12-03 - 2019-12-05
+
+Printed out a new version with more cards so it can be play tested with more people
+
+#### Media 🖼
+
+![Escape the Mad House v4](../assets/escape-the-madhouse-v4.jpg)
 
 ### 2019-08-05 - 2019-08-18
 

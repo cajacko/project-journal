@@ -9,14 +9,14 @@ work I did on a project.
 - [Comedy](projects/comedy.md) 🎭 (Dec 2019)
 - [Writing](projects/writing.md) 📚 (Dec 2019)
 - Board Games 🎲
+  - [Vigilantes](projects/vigilantes.md) 🦹‍♂️ (Dec 2019)
+  - [Escape the Mad House](projects/escape-the-mad-house.md) 🏚 (Dec 2019)
   - [Random Event](projects/random-event.md) 🧙‍♂️ (Nov 2019)
-  - [Vigilantes](projects/vigilantes.md) 🦹‍♂️ (Oct 2019)
-  - [Escape the Mad House](projects/escape-the-mad-house.md) 🏚 (Aug 2019)
   - [Tower Defense](projects/tower-defense.md) 🗼 (Sep 2019)
 - Programming
   - [Commit CLI](projects/commit.md) 💻 (Sep 2019)
 - Miscellaneous
-  - [Miniature Gaming and Modelling](projects/miniatures.md) 👨‍🎨 - (Nov 2019)
+  - [Miniature Gaming and Modelling](projects/miniatures.md) 👨‍🎨 - (Dec 2019)
   - [Drawing](projects/drawing.md) ✏️ (Nov 2019)
   - [Mantra Tattoo](projects/mantra-tattoo.md) 🖌 (Aug 2019)
   - [The Wood Party](projects/the-wood-party.md) 🌲🔥🥳 (Aug 2019)
@@ -30,8 +30,10 @@ work I did on a project.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
-- [(2019-11-11 - Current) Miniature Gaming and Modelling](projects/miniatures.md#current) - Getting back into WarHammer, modelling and painting 👨‍🎨
+- [(2019-12-15 - Current) Vigilantes](projects/vigilantes.md#current) - Working on an initial version to play test 🎲
+- [(2019-11-11 - 2019-12-17) Miniature Gaming and Modelling](projects/miniatures.md#2019-11-11---2019-12-17) - Getting back into WarHammer, modelling and painting 👨‍🎨
 - [(2019-12-02 - 2019-12-10) Writing](projects/writing.md#2019-12-02---2019-12-10) - Give up all your data 📈 (Short post on how we should be giving all our data to companies)
+- [(2019-12-03 - 2019-12-05) Escape the Mad House](projects/escape-the-mad-house.md#2019-12-03---2019-12-05) - Printed out a new version with more cards 🃏
 - [(2019-11-18 - 2019-12-01) Writing](projects/writing.md#2019-11-18---2019-12-01) - Killing the Dog 🐶 (Short post on mindfulness to combat losing your mind)
 - [(2019-11-11 - 2019-11-16) Writing](projects/writing.md#2019-11-11---2019-11-16) - Balancing Alcohol, Drugs and Fun 🍻 (Short post on how fun substances are)
 - [(2019-10-15 - 2019-11-11) Writing](projects/writing.md#2019-10-15---2019-11-11) - Stop Forgetting, Employ the Machines! (Short post talking about keeping track of life admin)
