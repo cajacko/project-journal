@@ -8,6 +8,12 @@ My more recent writing can be found on [GitHub](https://github.com/cajacko/writi
 
 ---
 
+### 2020-01-03 - 2020-01-14
+
+[Don't take life too seriously](https://github.com/cajacko/writing/blob/master/writing/serious.md) 🤪 Why so serious?
+
+---
+
 ### 2019-12-02 - 2019-12-10
 
 [Give up all your data](https://github.com/cajacko/writing/blob/master/writing/privacy.md) 📈 Companies need your data!
