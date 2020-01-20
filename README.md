@@ -31,7 +31,7 @@ work I did on a project.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
-- [(2019-01-15 - Current) Escape the madhouse](projects/escape-the-mad-house.md#current) - More play tests and improvements 🎲
+- [(2020-01-15 - Current) Escape the madhouse](projects/escape-the-mad-house.md#current) - More play tests and improvements 🎲
 - [(2020-01-13 - Current) Zero to hero](projects/zero-to-hero.md#current) - Working on an initial version to play test 🎲
 - [(2019-12-15 - Current) Vigilantes](projects/vigilantes.md#current) - Working on an initial version to play test 🎲
 - [(2020-01-03 - 2020-01-14) Writing](projects/writing.md#2020-01-03---2020-01-14) - Don't take life too seriously 🤪 (Short post on how people need to stop being so serious)
