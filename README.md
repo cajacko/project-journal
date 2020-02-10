@@ -1,5 +1,7 @@
 # Project Journal 📖
 
+A collection of creative projects by [Charlie Jackson](https://charliejackson.com).
+
 This repository is where I track the updates 🔼 and work I do on all my creative 💡 projects. It's a way
 for me to see the progress 📈 I've made on things, even if there's nothing tangible to see from the
 work I did on a project.
