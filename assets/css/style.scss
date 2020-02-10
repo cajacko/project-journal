@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.project-name-link {
+  color: white;
+}
+
 .main-content {
   img {
     max-height: 600px;
