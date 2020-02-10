@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
-* {
-  color: red;
+.page-header {
+  btn {
+    display: none;
+  }
+}
+
+.main-content {
+  img {
+    max-height: 600px;
+  }
 }
