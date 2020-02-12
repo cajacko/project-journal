@@ -9,9 +9,10 @@ work I did on a project.
 ## Projects
 
 - [Comedy](projects/comedy.md) 🎭 (Dec 2019)
-- [Writing](projects/writing.md) 📚 (Jan 2020)
+- [Writing](projects/writing.md) 📚 (Feb 2020)
 - Board Games 🎲
-  - [Zero to Hero](projects/zero-to-hero.md) 🦸‍♂️(Jan 2020)
+  - [Mini Strategy](projects/mini-strategy.md) 🃏 (Feb 2020)
+  - [Zero to Hero](projects/zero-to-hero.md) 🦸‍♂️(Feb 2020)
   - [Escape the Mad House](projects/escape-the-mad-house.md) 🏚 (Jan 2020)
   - [Vigilantes](projects/vigilantes.md) 🦹‍♂️ (Jan 2020)
   - [Random Event](projects/random-event.md) 🧙‍♂️ (Nov 2019)
@@ -33,10 +34,12 @@ work I did on a project.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
-- [(2020-01-15 - Current) Escape the madhouse](projects/escape-the-mad-house.md#current) - More play tests and improvements 🎲
-- [(2020-01-13 - Current) Zero to hero](projects/zero-to-hero.md#current) - Working on an initial version to play test 🎲
-- [(2019-12-15 - Current) Vigilantes](projects/vigilantes.md#current) - Working on an initial version to play test 🎲
+- [(2020-02-03 - 2020-02-12) Writing](projects/writing.md#2020-02-03---2020-02-12) - Overcoming your primitive mind 🐒 We all have monkey brains, so how can we stop using it?
+- [(2020-02-03 - 2020-02-09) Mini Strategy](projects/mini-strategy.md#2020-02-03---2020-02-09) - Working on an initial version to play test 🎲
+- [(2020-01-13 - 2020-02-09) Zero to hero](projects/zero-to-hero.md#2020-01-13---2020-02-09) - Working on an initial version to play test 🎲
+- [(2020-01-15 - 2020-01-19) Escape the madhouse](projects/escape-the-mad-house.md#2020-01-15---2020-01-19) - More play tests and improvements 🎲
 - [(2020-01-03 - 2020-01-14) Writing](projects/writing.md#2020-01-03---2020-01-14) - Don't take life too seriously 🤪 (Short post on how people need to stop being so serious)
+- [(2019-12-15 - 2020-01-12) Vigilantes](projects/vigilantes.md#2019-12-15---2020-01-12) - Working on an initial version to play test 🎲
 - [(2019-11-11 - 2019-12-17) Miniature Gaming and Modelling](projects/miniatures.md#2019-11-11---2019-12-17) - Getting back into WarHammer, modelling and painting 👨‍🎨
 - [(2019-12-02 - 2019-12-10) Writing](projects/writing.md#2019-12-02---2019-12-10) - Give up all your data 📈 (Short post on how we should be giving all our data to companies)
 - [(2019-12-03 - 2019-12-05) Escape the Mad House](projects/escape-the-mad-house.md#2019-12-03---2019-12-05) - Printed out a new version with more cards 🃏

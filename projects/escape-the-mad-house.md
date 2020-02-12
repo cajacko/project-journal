@@ -25,9 +25,19 @@ Still very much in a prototype stage, no artwork yet.
 
 ---
 
-### Current
+### 2020-01-15 - 2020-01-19
 
-Play testing and iterating the current version
+During this time had a great play test and a bunch of things to try out:
+
+- Try out some changes to the reaction/personality cards:
+  - Remove the lame and erotic
+  - Add in romantic and creepy
+- Experiment with images (with and without the text) on reaction/personality cards
+- Update rules to always draw 2 personality cards and pick 1
+- Remove advantages/disadvantages from room cards and instead give disadvantages that effect the way you narrate stories e.g. Narrate in 1 breath
+- Ensure every failure removes health
+- Adjust the rules so players always choose the item cards for the narrator
+- Adjust the flavour text so that Derek wakes up in the madhouse
 
 #### Media
 

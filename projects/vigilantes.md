@@ -16,11 +16,16 @@ Section to explain what to work on next
 
 ---
 
-### Current
+### 2019-12-15 - 2020-01-12
 
-Working towards a play testable version.
+During this time I was looking at:
 
-#### Media
+- Different ways of giving a character statistics in a way which could be levelled up
+- Different kinds of maps; Pandemic style, hex grids, standard grids, Zombicide spaces
+- How to have villain/enemy stats that change over time
+- Core mechanic questions
+
+It was a very loose brainstormy prototypey process.
 
 ![Vigilantes Prototype](../assets/vigilantes-prototype-003.jpg)
 
@@ -33,8 +38,6 @@ The was the first sprint on this project and was focussed on refining my ideas a
 - [ ] Have a super simple playable version focussed on the core concepts
 - [x] Write up the initial rule set
 - [x] Write up a comprehensive set up ordered uncertainties and next steps
-
-#### Media
 
 ![Vigilantes Prototype](../assets/vigilantes-prototype-001.jpg)
 ![Vigilantes Prototype](../assets/vigilantes-prototype-002.jpg)
