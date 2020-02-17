@@ -11,6 +11,18 @@ A board game where players start as a normal person and by the end of the game h
 
 ## Updates 🔼
 
+### 2020-02-10 - 2020-02-17
+
+Here I've been trying to figure out how to make the spread of gadgets/abilities more balanced and personal, so players feel like they can become the hero they want, and don't get stuck with effects they don't enjoy. So here's some ideas I've been playing with:
+
+- Draft initial abilities/gadgets
+- Have a selection of gadgets available to "buy" at the hideout. You don't upgrade gadgets, instead the ones available to buy get better over time. Allowing you to make up for a bad draw of character and ability(ies).
+
+I've also been looking at core mechanics as well such as:
+
+- Whether to always have 6 dice, and upgrade the dice as you progress
+- Must discard x action cards to do a thwart, doesn't matter what's on it. (Whilst keeping the initial way of adding dice to thwarts)
+
 ---
 
 ### 2020-01-13 - 2020-02-09

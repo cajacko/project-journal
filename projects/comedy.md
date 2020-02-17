@@ -4,18 +4,28 @@ In Jan 2013 I started getting into improvised comedy 😂🎭, and since have be
 
 - [Comedy](#comedy)
   - [Current Comedy Projects](#current-comedy-projects)
+    - [Stand Up](#stand-up)
+    - [Clowning](#clowning)
     - [Velociraptor](#velociraptor)
     - [NoScript and Smoosh](#noscript-and-smoosh)
-    - [Stand Up](#stand-up)
   - [Previous Comedy Projects](#previous-comedy-projects)
     - [Clusterfox](#clusterfox)
-    - [Clowning](#clowning)
     - [And Now](#and-now)
     - [SuperCouth](#supercouth)
   - [Show History](#show-history)
   - [Courses](#courses)
+  - [Updates](#updates)
+    - [2020-02-10 - 2020-02-17](#2020-02-10---2020-02-17)
 
 ## Current Comedy Projects
+
+### Stand Up
+
+I started getting into stand-up from the summer of 2019 and since have been doing a bunch of courses and show to see how it goes.
+
+### Clowning
+
+Since 2019 I've been doing a reasonable amount of clowning courses and a few solo clown shows. At the moment the idea is to merge the clowning into my stand-up work. But could end up doing more specific clown stuff as well.
 
 ### Velociraptor
 
@@ -25,19 +35,11 @@ A musical improvised comedy group. We do scenes that end in improvised songs! St
 
 NoScript is the programming (Specifically React.JS and JavaScript) based improv comedy house team for Smoosh (A comedy night by programmers for programmers). We started with the first Smoosh event in 2018 and have played every Smoosh, including our own nights, private events, various conferences and overseas (React Berlin, React Finland).
 
-### Stand Up
-
-A new endeavour of mine, having got introduced to stand-up via an 8 week intro course, I'm now exploring where this will go.
-
 ## Previous Comedy Projects
 
 ### Clusterfox
 
 A long form improvised comedy group. Joined Dec 2018 - Oct 2019, we've played shows at the Camden Fringe, bringing our conspiracy themed show Wake Up Sheeple!
-
-### Clowning
-
-In 2019 I did about 12 weeks of clowning courses, resulting in a 5minute solo show at the end.
 
 ### And Now
 
@@ -49,6 +51,7 @@ My first long form group, we ran from 2013 to around 2016 (can't quite remember)
 
 ## Show History
 
+- 2020-02-01 (London, UK) - Solo [clown](#clowning) show after the Devising Material for Clown course
 - 2019-12-09 (London, UK) - [Stand Up](#stand-up) gig at Hoopla Fresh
 - 2019-10-25 (Brighton, UK) - [Velociraptor](#velociraptor) show at Scoop
 - 2019-10-23 (London, UK) - First [Stand Up](#stand-up) gig
@@ -80,8 +83,10 @@ And about a dozen or so older shows I can't remember.
 ## Courses
 
 <!-- - The Maydays - March Improv Comedy Retreat (2020) -->
-<!-- - The Why Not Institute - Devising Material for Clown (2020) -->
 
+- Zack Zucker - Clowning Workshop (2020)
+- The Nursery - Duo Improv Comedy Course (2020)
+- The Why Not Institute - Devising Material for Clown (2020)
 - Hoopla - Stand-up Course Level 2 (2020)
 - Hoopla - Story Improv Comedy Course (2019/2020)
 - Track 96 - Hip Hop Improv Comedy Workshop (2019)
@@ -102,3 +107,16 @@ And about a dozen or so older shows I can't remember.
 - Spontaneity Shop - Improv Comedy Course Level 2b (2015)
 - Spontaneity Shop - Improv Comedy Course Level 2a (2015)
 - Spontaneity Shop - Improv Comedy Course Level 1 (2015)
+
+## Updates
+
+### 2020-02-10 - 2020-02-17
+
+Currently doing a stand-up course each week so have been preparing material for that. This weeks set contained:
+
+- Why children are drunk drunk people
+- The way I used glasses with green tinted lenses, magic and an emo fringe to try and find love as a teenager
+- Why I'm still a child now
+- Making silly noises from Mario and Nintendo characters in inappropriate situations
+- If Mario Kart was real
+- The link between bananas and Batman
