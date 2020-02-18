@@ -114,7 +114,7 @@ And about a dozen or so older shows I can't remember.
 
 Currently doing a stand-up course each week so have been preparing material for that. This weeks set contained:
 
-- Why children are drunk drunk people
+- Why children are like drunk people
 - The way I used glasses with green tinted lenses, magic and an emo fringe to try and find love as a teenager
 - Why I'm still a child now
 - Making silly noises from Mario and Nintendo characters in inappropriate situations
