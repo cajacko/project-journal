@@ -4,12 +4,33 @@ A board game where players start as a normal person and by the end of the game h
 
 ## Next Steps ⏭
 
-- Try some new methods of thwarting and limiting max number of dice
-- Play the whole way through and adjust for game length
-- Improve the way the seriousness of crimes and punishments scale
-- Simplify
+- Play through these new ideas
 
 ## Updates 🔼
+
+### 2020-02-18 - 2020-02-25
+
+This week I was looking at simplification, self balancing and player interaction. So have been testing the following ideas:
+
+- Getting rid of ability cards in favour of more gadgets, which can be bought/upgraded and traded - This gives you more control on what abilities you want your vigilante to have
+- Having an upgradable character instead of the ability cards to add to the thematic flavour (e.g. fun abilities) and making characters more unique
+- Removed location cards and added the rewards to the map - reduces number of cards and you don't need to worry about shifting cards too often
+- Removed individual crime consequences in favour of a uniform consequence - So face down crimes are now unknown
+- Starting character and gadgets work in a draw x keep y method - Again to improve flexibility in picking what your vigilante is like
+- Gadget cards improve as characters level up - To improve from a thematic point of view and reward you
+- Crimes get more intense as you progress - To improve from a thematic point of view
+- When the threat track reaches the end you start rolling dice to see if you've lost. This is to ensure there's always a chance to win the game, you can't get to a situation where you are guaranteed to lose.
+- You can decide to add chance dice to any thwart attempt, which have 1 + side but also a V (villain) side which solves the crime if it comes up. This means you can always push your luck to try and defeat a crime. You can never not try.
+- There are more opportunities to do things during other players turns (use gadgets, contribute action cards)
+- To succeed on any thwart you must roll x amount of + results, if you fail the crime schemes 1
+- Villains have uniform actions and consequences. But different hit values and rewards. You rotate the cards to show damage
+- You can research better gadgets at the hideout, by spending any amount of cards to draw new gadgets at your current level
+- All crimes scheme during the villain phase
+- Experience still determines number of crimes to spawn
+- You upgrade you vigilante as soon as a villain is defeated
+- Villains spawn the first time you spot a v1, v2 or v3 icon on a crime card
+
+---
 
 ### 2020-02-10 - 2020-02-17
 

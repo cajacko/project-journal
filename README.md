@@ -11,13 +11,14 @@ work I did on a project.
 - [Comedy](projects/comedy.md) 🎭 (Feb 2020)
 - [Writing](https://writing.charliejackson.com) 📚 (Feb 2020)
 - Board Games 🎲
-  - [Mini Strategy](projects/mini-strategy.md) 🃏 (Feb 2020)
   - [Zero to Hero](projects/zero-to-hero.md) 🦸‍♂️(Feb 2020)
+  - [Mini Strategy](projects/mini-strategy.md) 🃏 (Feb 2020)
   - [Escape the Mad House](projects/escape-the-mad-house.md) 🏚 (Jan 2020)
   - [Vigilantes](projects/vigilantes.md) 🦹‍♂️ (Jan 2020)
   - [Random Event](projects/random-event.md) 🧙‍♂️ (Nov 2019)
   - [Tower Defense](projects/tower-defense.md) 🗼 (Sep 2019)
 - Programming
+  - [Board Game Builder](projects/board-game-builder.md) 🃏 (Feb 2020)
   - [charliejackson.com](projects/charlie-jackson-website.md) 🌍 (Feb 2020)
   - [Commit CLI](projects/commit.md) 💻 (Sep 2019)
 - Miscellaneous
@@ -35,6 +36,12 @@ work I did on a project.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [Board Game Builder (2020-02-18 - 2020-02-25)](./projects/board-game-builder.md#2020-02-18---2020-02-25)
+  - Started this project to help make it easier to print from a template design
+- [Zero to hero (2020-02-18 - 2020-02-25)](./projects/zero-to-hero.md#2020-02-18---2020-02-25)
+  - Dramatically simplified the core ruleset 🎲
+- [Writing (2020-02-18 - 2020-02-25)](https://writing.charliejackson.com/writing/poker.html)
+  - Continued on the fiction piece about playing poker
 - [Comedy (2020-02-10 - 2020-02-17)](./projects/comedy.md#2020-02-10---2020-02-17)
   - Worked on a new 2 min stand-up set for a class
 - [Self Development Vlog (2020-02-10 - 2020-02-17)](./projects/self-dev-vlog.md#2020-02-10---2020-02-17)
