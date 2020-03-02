@@ -8,10 +8,11 @@ work I did on a project.
 
 ## Projects
 
-- [Comedy](projects/comedy.md) 🎭 (Feb 2020)
+- [Comedy](projects/comedy.md) 🎭 (Mar 2020)
 - [Writing](https://writing.charliejackson.com) 📚 (Feb 2020)
 - Board Games 🎲
-  - [Zero to Hero](projects/zero-to-hero.md) 🦸‍♂️(Feb 2020)
+  - [Hidden Maze](projects/hidden-maze.md) 🔀 (Mar 2020)
+  - [Zero to Hero](projects/zero-to-hero.md) 🦸‍♂️(Mar 2020)
   - [Mini Strategy](projects/mini-strategy.md) 🃏 (Feb 2020)
   - [Escape the Mad House](projects/escape-the-mad-house.md) 🏚 (Jan 2020)
   - [Vigilantes](projects/vigilantes.md) 🦹‍♂️ (Jan 2020)
@@ -36,6 +37,12 @@ work I did on a project.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [Hidden Maze (2020-02-26 - 2020-03-01)](./projects/zero-to-hero.md#2020-02-26---2020-03-01)
+  - Built a super quick prototype of a hidden maze game
+- [Zero to hero (2020-02-26 - 2020-03-01)](./projects/zero-to-hero.md#2020-02-26---2020-03-01)
+  - Did another play test and lot's of changes
+- [Comedy (2020-02-26 - 2020-03-01)](./projects/comedy.md#2020-02-26---2020-03-01)
+  - Worked on a new 5 min stand-up set for a class and had another class on 2 person improv
 - [Board Game Builder (2020-02-18 - 2020-02-25)](./projects/board-game-builder.md#2020-02-18---2020-02-25)
   - Started this project to help make it easier to print from a template design
 - [Zero to hero (2020-02-18 - 2020-02-25)](./projects/zero-to-hero.md#2020-02-18---2020-02-25)

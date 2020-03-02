@@ -4,9 +4,44 @@ A board game where players start as a normal person and by the end of the game h
 
 ## Next Steps ⏭
 
-- Play through these new ideas
+- Try out action tokens
+- Try out action dice
+- Spawn villains faster
+- Spawn villains from experience track
+- Upgrade via experience track
+- Get more named cards/images on
 
 ## Updates 🔼
+
+### 2020-02-26 - 2020-03-01
+
+Built a new version with hex crimes and a lot of the changes from the last update. Had a play test of this version which went really well. Here's some of the notes from it:
+
+- Definitely don't want additional effects on action cards. So can we reduce them to tokens or dice? Then much easier to glance at, organise, discard (or not discard, can re roll?)
+- Actions should refresh at the end of your turn so you always have actions to spend on other peoples turns, but if you do that means you can't use those actions in your turn
+- There needs to be more ways of helping each other, or moving people with you/onto your space
+- The s marks could be subways instead of sewers
+- Need the villains to appear sooner but not immediately
+- Have a max dice limit (15 is what we had and worked quite well), this may force people to use the chance dice and balance their abilities so their not just lots of dice but also convert and reroll
+- Have the gadget limit on the vigilante card
+- Get rid of any abilities that are "at the start of your turn do this" too easy to forget
+- We didn't replace crimes when they completed, should play test this properly
+- At the moment the experience track only does bad things: determines number of crimes and their starting level. Makes more sense to have it controlling upgrades and spawning villains, unless there's a better way to do all this.
+- Have bigger rewards for defeating villains atm it's just upgrade. Be good to draw more actions as well and tend to use all of them to defeat them.
+- Do not have action cards with only 1 symbol
+- Researching new gadgets cost too much, around 6 cards atm
+- Start with some gadgets to buy in the hideout
+- Convert all is too powerful, make it a 1 use gadget
+- More 1 use gadgets
+- Is was mentioned that we could separate one use gadgets and normal ones. Not sure about that though.
+
+From this we've got a few new ideas to play with:
+
+- Tokens instead of action cards, still draw them and discard and each token may still have a mix of symbols but you have to pick 1
+- Action dice instead of action cards. The dice have things like +1 thwart dice, 1 money, 1 charge, move. You roll at the end of your turn and move them from an unused to used pool on your reference sheet. Similar to Dead of Winter. If we do this we may need some way of changing/choosing the action die result so you don't end up with all movement and nothing else. Or could have different actions on different dice. You can also get more as you upgrade.
+- Allow people to use any of their actions during other peoples turns, but they can't initiate a thwart, just contribute. So can move together to do things
+
+![Zero to Hero](../assets/zero-to-hero-006.jpg)
 
 ### 2020-02-18 - 2020-02-25
 

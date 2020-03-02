@@ -15,6 +15,7 @@ In Jan 2013 I started getting into improvised comedy 😂🎭, and since have be
   - [Show History](#show-history)
   - [Courses](#courses)
   - [Updates](#updates)
+    - [2020-02-26 - 2020-03-01](#2020-02-26---2020-03-01)
     - [2020-02-10 - 2020-02-17](#2020-02-10---2020-02-17)
 
 ## Current Comedy Projects
@@ -109,6 +110,20 @@ And about a dozen or so older shows I can't remember.
 - Spontaneity Shop - Improv Comedy Course Level 1 (2015)
 
 ## Updates
+
+### 2020-02-26 - 2020-03-01
+
+This week I had 2 classes on:
+
+- A Duo Improv (2 person improv scenes) class focussing on theme. Identifying it and doubling down on it when you've found it.
+- Stand-up class. Where I prepared a 5 min set on:
+  - Philosophy and the belief in many Phils
+  - A lovely drawing of me as a philosopher with a starfish
+  - Click bait and surprises
+  - How making the bed is a silly phrase
+  - The problems with water beds
+  - My inner mind during meditation
+  - Caring too much
 
 ### 2020-02-10 - 2020-02-17
 
