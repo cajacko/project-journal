@@ -13,6 +13,19 @@ A board game where players start as a normal person and by the end of the game h
 
 ## Updates 🔼
 
+### 2020-03-02 - 2020-03-08
+
+Played around with some ideas about removing the action cards and replacing them with tokens or dice. Seeing as the cards were only used to make you think about what actions to take and determine available actions, it seems like there's a simpler and tidier way by using tokens or rolling dice to determine this.
+
+The current idea is that you start the game with x amount of action dice per player. At the end of your turn these move to the unused pool. You can spend them (by moving into the used pool) in the following ways:
+
+- Add them to a thwart attempt, and then roll them
+- Spend any 1 to move up to your allowance
+- Spend x and roll them to gain resources either money or charge
+- Spend x dice to trade with anyone on your space
+
+The dice would be coloured per player so when you contribute dice to a thwart attempt and a single player rolls you know whose dice is whose. This then allows us to reward players with more dice as rewards or upgrades. You would also now have more control over the actions you can take, as you can take any combination of move/thwart/trade/resource generation rather than drawing a random mix from the action cards.
+
 ### 2020-02-26 - 2020-03-01
 
 Built a new version with hex crimes and a lot of the changes from the last update. Had a play test of this version which went really well. Here's some of the notes from it:

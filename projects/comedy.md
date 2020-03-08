@@ -15,6 +15,7 @@ In Jan 2013 I started getting into improvised comedy 😂🎭, and since have be
   - [Show History](#show-history)
   - [Courses](#courses)
   - [Updates](#updates)
+    - [2020-03-02 - 2020-03-08](#2020-03-02---2020-03-08)
     - [2020-02-26 - 2020-03-01](#2020-02-26---2020-03-01)
     - [2020-02-10 - 2020-02-17](#2020-02-10---2020-02-17)
 
@@ -22,7 +23,9 @@ In Jan 2013 I started getting into improvised comedy 😂🎭, and since have be
 
 ### Stand Up
 
-I started getting into stand-up from the summer of 2019 and since have been doing a bunch of courses and show to see how it goes.
+I started getting into stand-up from the summer of 2019 and since have been doing a bunch of courses and show to see how it goes. Here's any footage I have:
+
+- [March 2020 - Charlie Jackson Stand-Up Comedy - Level 2 end of course show](https://youtu.be/AEDO13JYqVU)
 
 ### Clowning
 
@@ -52,6 +55,8 @@ My first long form group, we ran from 2013 to around 2016 (can't quite remember)
 
 ## Show History
 
+- 2020-03-05 (London, UK) - [Stand Up](#stand-up) level 2 end of course show ([Link to video](https://youtu.be/AEDO13JYqVU))
+- 2020-03-04 (London, UK) - Hosting a comedy night for the Shark Trust
 - 2020-02-01 (London, UK) - Solo [clown](#clowning) show after the Devising Material for Clown course
 - 2019-12-09 (London, UK) - [Stand Up](#stand-up) gig at Hoopla Fresh
 - 2019-10-25 (Brighton, UK) - [Velociraptor](#velociraptor) show at Scoop
@@ -84,6 +89,7 @@ And about a dozen or so older shows I can't remember.
 ## Courses
 
 <!-- - The Maydays - March Improv Comedy Retreat (2020) -->
+<!-- Hoopla - Hip Hop (2020) -->
 
 - Zack Zucker - Clowning Workshop (2020)
 - The Nursery - Duo Improv Comedy Course (2020)
@@ -110,6 +116,22 @@ And about a dozen or so older shows I can't remember.
 - Spontaneity Shop - Improv Comedy Course Level 1 (2015)
 
 ## Updates
+
+### 2020-03-02 - 2020-03-08
+
+Busy comedy week:
+
+- Worked on the unique dynamic between 2 people in Dup improv class
+- Hosted a comedy show with the Shark Trust doing some small bits and playing some improv games
+- Had my Stand-up level 2 end of course show ([Link to video](https://youtu.be/AEDO13JYqVU)) which went very well around 8 minutes. Content included:
+  - My product design for a half bath
+  - Having baths with my dog and wife
+  - Shameless bath puns
+  - My inner self is a dick during meditation
+  - Teenage me was nerdy and adorable
+  - Making the noises of Nintendo characters
+  - Real life Mario Kart
+  - Bananas
 
 ### 2020-02-26 - 2020-03-01
 

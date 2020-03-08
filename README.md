@@ -11,14 +11,15 @@ work I did on a project.
 - [Comedy](projects/comedy.md) 🎭 (Mar 2020)
 - [Writing](https://writing.charliejackson.com) 📚 (Feb 2020)
 - Board Games 🎲
-  - [Hidden Maze](projects/hidden-maze.md) 🔀 (Mar 2020)
   - [Zero to Hero](projects/zero-to-hero.md) 🦸‍♂️(Mar 2020)
+  - [Hidden Maze](projects/hidden-maze.md) 🔀 (Mar 2020)
   - [Mini Strategy](projects/mini-strategy.md) 🃏 (Feb 2020)
   - [Escape the Mad House](projects/escape-the-mad-house.md) 🏚 (Jan 2020)
   - [Vigilantes](projects/vigilantes.md) 🦹‍♂️ (Jan 2020)
   - [Random Event](projects/random-event.md) 🧙‍♂️ (Nov 2019)
   - [Tower Defense](projects/tower-defense.md) 🗼 (Sep 2019)
 - Programming
+  - [Stand-up Viewer](projects/stand-up-viewer.md) 🎤 (Mar 2020)
   - [Board Game Builder](projects/board-game-builder.md) 🃏 (Feb 2020)
   - [charliejackson.com](projects/charlie-jackson-website.md) 🌍 (Feb 2020)
   - [Commit CLI](projects/commit.md) 💻 (Sep 2019)
@@ -37,6 +38,12 @@ work I did on a project.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [Comedy (2020-03-02 - 2020-03-08)](./projects/comedy.md#2020-03-02---2020-03-08)
+  - Duo class, hosted a comedy night and had a great stand-up show
+- [Stand-up Viewer (2020-03-02 - 2020-03-08)](./projects/stand-up-viewer.md#2020-03-02---2020-03-08)
+  - Built the first version
+- [Zero to hero (2020-03-02 - 2020-03-08)](./projects/zero-to-hero.md#2020-03-02---2020-03-08)
+  - Playing around with new ways of doing actions
 - [Hidden Maze (2020-02-26 - 2020-03-01)](./projects/zero-to-hero.md#2020-02-26---2020-03-01)
   - Built a super quick prototype of a hidden maze game
 - [Zero to hero (2020-02-26 - 2020-03-01)](./projects/zero-to-hero.md#2020-02-26---2020-03-01)
