@@ -8,6 +8,8 @@ work I did on a project.
 
 ## Projects
 
+The date after the project title is when that project was last updated.
+
 - [Comedy](projects/comedy.md) 🎭 (Mar 2020)
 - [Writing](https://writing.charliejackson.com) 📚 (Feb 2020)
 - Board Games 🎲
@@ -121,4 +123,22 @@ work I did on a project.
 - [Writing (2019-08-06 - 2019-08-14)](https://writing.charliejackson.com/writing/under-the-bridge.html)
   - Under the Bridge 🌉 (short fiction piece)
 - [Writing (2019-07-29 - 2019-08-05)](https://writing.charliejackson.com/writing/forming-beliefs.html)
-  - How to Form Beliefs 🤔
+  - How to Form Beliefs 🤔`
+- [Writing (2018-11-30 - 2018-11-30)](https://medium.com/lessons-by-charlie-jackson/its-all-your-fault-8bf87a9138fa)
+  - It's all your fault
+- [Writing (2018-11-17 - 2018-11-17)](https://medium.com/lessons-by-charlie-jackson/listen-its-not-about-you-86c93f74df83)
+  - Listen - It’s Not About You
+- [Writing (2018-11-09 - 2018-11-09)](https://medium.com/lessons-by-charlie-jackson/how-thinking-in-probabilities-helps-you-make-better-decisions-c82e09bd183a)
+  - How Thinking in Probabilities Helps You Make Better Decisions
+- [Writing (2018-11-02 - 2018-11-02)](https://medium.com/lessons-by-charlie-jackson/improve-your-thinking-by-writing-7c0e71c8dfe7)
+  - Improve your thinking by writing
+- [Writing (2018-10-26 - 2018-10-26)](https://medium.com/lessons-by-charlie-jackson/learn-by-building-motivated-programming-378c1a635e7c)
+  - Learn by Building — Motivated Programming
+- [Writing (2018-10-19 - 2018-10-19)](https://medium.com/lessons-by-charlie-jackson/start-small-and-do-less-forming-habits-for-life-679948eb08e7)
+  - Start small and do less — Forming habits for life
+- [Writing (2018-04-02 - 2018-04-02)](https://medium.com/lessons-by-charlie-jackson/calm-yourself-using-lists-picking-your-battles-and-paying-for-simplicity-36488e87a9ee)
+  - Calm yourself using lists, picking your battles and paying for simplicity
+- [Writing (2018-03-04 - 2018-03-04)](https://medium.com/lessons-by-charlie-jackson/be-curious-tell-people-what-you-want-and-23-more-lessons-from-this-week-cff6967706b7)
+  - Be curious, tell people what you want and 23 more lessons from this week
+- [Writing (2018-02-26 - 2018-02-26)](https://medium.com/lessons-by-charlie-jackson/plan-fun-shit-death-to-cms-and-have-a-hangover-work-plan-c5f747650bf3)
+  - Plan fun shit, death to CMS and have a hangover work plan
