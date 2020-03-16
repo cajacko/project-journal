@@ -9,6 +9,7 @@ situation.
 - More play tests - to see if the new changes work (especially restriction cards)
 - Experiment with images (with and without the text) on reaction/personality cards
 - Adjust the flavour text so that Derek wakes up in the madhouse
+- Have an app for the active player to use (room card, personality). Then the game can be cheaper and smaller. Just items, reactions and health cards
 
 ## Updates 🔼
 
