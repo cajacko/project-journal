@@ -13,6 +13,27 @@ The idea of this board game is to build a dungeon crawler style strategy game th
 
 ## Updates 🔼
 
+### 2020-03-09 - 2020-03-16
+
+Had a play with playing pieces and simplicity.
+
+- Card Types
+  - Locations
+    - With 5 subtypes
+      - Generic - Both sides of the card are generic locations
+      - Searchable - 1 side of the card has a search icon on it, the other side shows the same location but it's been searched (no icon). These indicate spaces you can search
+      - Interact to pass - 1 side has an interact icon on it, the other side shows the same location but without the reason for interacting (e.g. security cameras now destroyed). Players can not move past this location without interacting in the app
+      - Contained - Both sides show the same location but 1 has something that's contained, the other doesn't (e.g. biological experiment/monster)
+      - Exit - A location you start or can exit through. 1 side shows it open, the other shows it closed
+  - Characters
+  - Enemies - Mainly used as a card for immersion, as in-app stuff won't be visible to all players
+  - Items/Abilities
+- Tokens - Unique coloured tokens used to interact in app and place on locations. May have some generic tokens for health as well
+- Pawns - Unique pawns for players and the app to use as enemies
+- Dice
+
+The idea around mechanics if simple x actions per turn (move, attack, interact with icon in app). Conflict is determined in-app and you're normally told to roll a certain value. Basically a very small version of mansions of madness.
+
 ### 2020-02-03 - 2020-02-09
 
 Had the first brainstorming/prototyping session. Took a deck of blank cards, some meeple, d6 and coloured tokens and had a play with:

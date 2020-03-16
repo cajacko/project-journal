@@ -15,6 +15,7 @@ In Jan 2013 I started getting into improvised comedy 😂🎭, and since have be
   - [Show History](#show-history)
   - [Courses](#courses)
   - [Updates](#updates)
+    - [2020-03-09 - 2020-03-16](#2020-03-09---2020-03-16)
     - [2020-03-02 - 2020-03-08](#2020-03-02---2020-03-08)
     - [2020-02-26 - 2020-03-01](#2020-02-26---2020-03-01)
     - [2020-02-10 - 2020-02-17](#2020-02-10---2020-02-17)
@@ -117,11 +118,16 @@ And about a dozen or so older shows I can't remember.
 
 ## Updates
 
+### 2020-03-09 - 2020-03-16
+
+- Continued with the Duo improv class. This week looking at juggling multiple conversations in 1 scene
+- Had a review session on the stand-up show from last week. So refined some jokes and got some great new ideas
+
 ### 2020-03-02 - 2020-03-08
 
 Busy comedy week:
 
-- Worked on the unique dynamic between 2 people in Dup improv class
+- Worked on the unique dynamic between 2 people in Duo improv class
 - Hosted a comedy show with the Shark Trust doing some small bits and playing some improv games
 - Had my Stand-up level 2 end of course show ([Link to video](https://youtu.be/AEDO13JYqVU)) which went very well around 8 minutes. Content included:
   - My product design for a half bath

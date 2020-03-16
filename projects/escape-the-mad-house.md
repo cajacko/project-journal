@@ -4,24 +4,24 @@ A co-operative card game 🃏 of improvised stories and escaping ridiculous situ
 co-operative version of Bucket of Doom but with a single journey/loose narrative. And a specific end
 situation.
 
-Currently in a playable state if you go to the project on
-[GitHub](https://github.com/cajacko/escape-the-mad-house) and print/write out the resource cards.
-Still very much in a prototype stage, no artwork yet.
-
 ## Next Steps ⏭
 
-- More play tests
-- Try out some changes to the reaction/personality cards:
-  - Remove the lame and erotic
-  - Add in romantic and creepy
+- More play tests - to see if the new changes work (especially restriction cards)
 - Experiment with images (with and without the text) on reaction/personality cards
-- Update rules to always draw 2 personality cards and pick 1
-- Remove advantages/disadvantages from room cards and instead give disadvantages that effect the way you narrate stories e.g. Narrate in 1 breath
-- Ensure every failure removes health
-- Adjust the rules so players always choose the item cards for the narrator
 - Adjust the flavour text so that Derek wakes up in the madhouse
 
 ## Updates 🔼
+
+### 2020-03-09 - 2020-03-16
+
+Implemented most of the changes from the last play test:
+
+- Removed the lame, erotic and unusual reactions and added passionate, romantic and creepy
+- Updated rules to always draw 2 personality cards and pick 1
+- Changed effects of room cards to be +- health and whether to draw a Restriction card
+- Implemented Restriction cards which give players restrictions on how they can do the narration
+- Adjusted the rules so players always choose the item cards for the narrator
+- Ensured every failure removes health
 
 ---
 

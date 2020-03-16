@@ -1,14 +1,25 @@
 # Board Game Builder
 
-This is a website that loads in data from Google Sheets and lets you apply it to various "designs"/React components and then print them out. You can find the source code on [GitHub](https://github.com/cajacko/board-game-builder).
+This is a Desktop Application that loads in data from Google Sheets and lets you apply it to various "designs"/React components and then print them out. You can find the source code on [GitHub](https://github.com/cajacko/board-game-builder).
 
 ## Next Steps ⏭
 
-- Improve the admin UI
-- Check what other print styles can't be done and whether it needs to have a backend to take screenshots
-- Allow you to select the React component via the front end
+- Allow the difference between a sheet being for multiple cards or for a single card
+- Make some more generic designs
+- Deploy as a stand alone app that still watches and reloads changes from the design directory
 
 ## Updates 🔼
+
+### 2020-03-09 - 2020-03-16
+
+Got everything to a proper v1.0.0 state.
+
+- Let you select what component a sheet should use
+- Let you map the columns to the expected props from the design
+- Improved the UI
+
+![Board Game Builder 001](../assets/board-game-builder-001.png)
+![Board Game Builder 002](../assets/board-game-builder-002.png)
 
 ### 2020-02-18 - 2020-02-25
 

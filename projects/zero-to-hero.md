@@ -4,14 +4,31 @@ A board game where players start as a normal person and by the end of the game h
 
 ## Next Steps ⏭
 
-- Try out action tokens
-- Try out action dice
-- Spawn villains faster
-- Spawn villains from experience track
-- Upgrade via experience track
-- Get more named cards/images on
+- Get more named cards/images
+- Keep playing through the current version
+- Figure out available gadget process, feels clunky and not as exciting as it could be
+- Figure out the threat track, good end values, does the roll system work etc.
 
 ## Updates 🔼
+
+### 2020-03-09 - 2020-03-16
+
+Implemented the idea of having action dice. This didn't work. It was more fun to have action cards that could only be spent once but could do multiple things, rather than dice which only shows 1 kind of action, or you can change to anything. It's also easier to wrap more theme into cards.
+
+Played with another version with the following changes:
+
+- Players get individual experience which goes towards upgrading their vigilante
+- There's a victory track. You win if you get to the end. You collect victory points by thwarting any crime/villain card that has a victory symbol on it. This track also controls the number of crimes and intensity to spawn at.
+- Crimes have a separate number of experience and threat, no longer the same as the target thwart value
+- Villains are shuffled into the crime deck and can be spawned any time after the first 1/2 spawns. This is done by having 5 crime types:
+  - Starting crimes
+  - Level 1 - 1 villain shuffled in here
+  - Level 2 - 2 villains shuffled in here
+  - Level 3 - 3 villains shuffled in here
+  - Level 4 - enough high level cards to ensure the game ends (don't like the idea of losing if the deck runs out, and reshuffling crimes will be awkward as they'll get mixed with lower levels)
+
+![Zero to Hero](../assets/zero-to-hero-007.jpg)
+![Zero to Hero](../assets/zero-to-hero-008.jpg)
 
 ### 2020-03-02 - 2020-03-08
 
