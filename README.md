@@ -98,7 +98,7 @@ The date after the project title is when that project was last updated.
 
 - [Writing (2020-03-09 - 2020-03-16)](https://writing.charliejackson.com/writing/enjoy-life.html)
   - Started and finished a piece on "How to Enjoy Life"
-- [Hidden Maze (2020-03-09 - 2020-03-16)](./projects/zero-to-hero.md#2020-03-09---2020-03-16)
+- [Hidden Maze (2020-03-09 - 2020-03-16)](./projects/hidden-maze.md#2020-03-09---2020-03-16)
   - Started building an iOS/Android app version of this in React Native
 - [Board Game Builder (2020-03-09 - 2020-03-16)](./projects/board-game-builder.md#2020-03-09---2020-03-16)
   - Improved the UI, let you pick components and map props to them
