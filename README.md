@@ -78,6 +78,7 @@ The date after the project title is when that project was last updated.
   - [Daily Photo](https://medium.com/projects-by-charlie-jackson/daily-photo-4039e935fa0f) (Apr 2017)
   - [Daily Doodle](https://medium.com/projects-by-charlie-jackson/daily-doodle-doing-a-drawing-every-day-29e12984ea80) (Mar 2017)
 - Miscellaneous
+  - [Writing Videos](projects/writing-videos.md) 📖🎦 (Mar 2020)
   - [The Wood Party](projects/the-wood-party.md) 🌲🔥🥳 (Aug 2019)
   - [Story](https://medium.com/projects-by-charlie-jackson/story-combining-my-instagram-story-for-a-month-70f1ccc878e2) (May 2017)
   - [Cook Book](https://medium.com/projects-by-charlie-jackson/cookbook-charlie-and-vikis-recipes-bd725a95b701) (Feb 2017)
@@ -96,6 +97,8 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [Writing Videos (2020-03-19 - 2020-03-19)](./projects/writing-videos.md#2020-03-19---2020-03-19)
+  - Made a video for the "How to enjoy life" post
 - [Writing (2020-03-09 - 2020-03-16)](https://writing.charliejackson.com/writing/enjoy-life.html)
   - Started and finished a piece on "How to Enjoy Life"
 - [Hidden Maze (2020-03-09 - 2020-03-16)](./projects/hidden-maze.md#2020-03-09---2020-03-16)
@@ -110,6 +113,8 @@ The date after the project title is when that project was last updated.
   - Tried some new changes, reverted and played with new ideas around victory points, more villains and upgrades
 - [Comedy (2020-03-09 - 2020-03-16)](./projects/comedy.md#2020-03-09---2020-03-16)
   - Duo class and had feedback and refinement on my last stand-up show/set
+- [Writing Videos (2020-03-12 - 2020-03-12)](./projects/writing-videos.md#2020-03-12---2020-03-12)
+  - Made a video for the "Don't take life too seriously" post
 - [Comedy (2020-03-02 - 2020-03-08)](./projects/comedy.md#2020-03-02---2020-03-08)
   - Duo class, hosted a comedy night and had a great stand-up show
 - [Stand-up Viewer (2020-03-02 - 2020-03-08)](./projects/stand-up-viewer.md#2020-03-02---2020-03-08)
@@ -138,8 +143,12 @@ The date after the project title is when that project was last updated.
   - Continue to refine the core mechanics 🎲
 - [charliejackson (2020-02-10 - 2020-02-17).com](projects/charlie-jackson-website.md#2020-02-10---2020-02-17)
   - Built a new version of my site to highlight the email newsletter and shows
+- [Writing Videos (2020-02-12 - 2020-02-12)](./projects/writing-videos.md#2020-02-12---2020-02-12)
+  - Made a video for the "Overcoming your primitive mind" post
 - [Writing (2020-02-03 - 2020-02-12)](https://writing.charliejackson.com/writing/primitive-mind.html)
   - Overcoming your primitive mind 🐒 We all have monkey brains, so how can we stop using it?
+- [Writing Videos (2020-02-10 - 2020-02-10)](./projects/writing-videos.md#2020-02-10---2020-02-10)
+  - Made a video for the "How selfish should you be" post
 - [Mini Strategy (2020-02-03 - 2020-02-09)](projects/mini-strategy.md#2020-02-03---2020-02-09)
   - Working on an initial version to play test 🎲
 - [Zero to hero (2020-01-13 - 2020-02-09)](projects/zero-to-hero.md#2020-01-13---2020-02-09)
