@@ -21,6 +21,7 @@ The date after the project title is when that project was last updated.
   - [Random Event](projects/random-event.md) 🧙‍♂️ (Nov 2019)
   - [Tower Defense](projects/tower-defense.md) 🗼 (Sep 2019)
 - Programming
+  - [Improv Stories](./projects/improv-stories.md) 📖 (Mar 2020)
   - [Hidden Maze](projects/hidden-maze.md) 🔀 (Mar 2020)
   - [Board Game Builder](projects/board-game-builder.md) 🃏 (Mar 2020)
   - [Stand-up Viewer](projects/stand-up-viewer.md) 🎤 (Mar 2020)
@@ -30,7 +31,6 @@ The date after the project title is when that project was last updated.
   - [Improv DnD Dice](https://github.com/cajacko/improv-dnd-dice) (May 2019)
   - [env-sync](https://github.com/cajacko/env-sync) (Apr 2019)
   - [Visual Journal](https://github.com/cajacko/visual-journal) (Jan 2019)
-  - [Improv Stories](https://github.com/cajacko/improv-stories) (Dec 2018)
   - [Lib](https://github.com/cajacko/lib) (Dec 2018)
   - [react-dom-model](https://github.com/cajacko/react-dom-model) (Sep 2018)
   - [Mantra App](https://medium.com/projects-by-charlie-jackson/mantra-ios-and-android-app-to-remember-your-learnings-6b2c6f63dda4) (Mar 2018)
@@ -78,6 +78,8 @@ The date after the project title is when that project was last updated.
   - [Daily Photo](https://medium.com/projects-by-charlie-jackson/daily-photo-4039e935fa0f) (Apr 2017)
   - [Daily Doodle](https://medium.com/projects-by-charlie-jackson/daily-doodle-doing-a-drawing-every-day-29e12984ea80) (Mar 2017)
 - Miscellaneous
+  - [Daily Metrics](projects/daily-metrics.md) 📈 (Mar 2020)
+  - [Social Dashboard](projects/social-dashboard.md) 📱 (Mar 2020)
   - [Writing Videos](projects/writing-videos.md) 📖🎦 (Mar 2020)
   - [The Wood Party](projects/the-wood-party.md) 🌲🔥🥳 (Aug 2019)
   - [Story](https://medium.com/projects-by-charlie-jackson/story-combining-my-instagram-story-for-a-month-70f1ccc878e2) (May 2017)
@@ -97,6 +99,14 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [Social Dashboard (2020-03-17 - 2020-03-21)](./projects/social-dashboard.md#2020-03-17---2020-03-21)
+  - Built a Google Sheet for displaying my social posts and inspiring me to post more and better content
+- [Improv Stories (2020-03-17 - 2020-03-21)](./projects/improv-stories.md#2020-03-17---2020-03-21)
+  - Played with graphql over sockets and graphql subscriptions
+- [Daily Metrics (2020-03-17 - 2020-03-21)](./projects/daily-metrics.md#2020-03-17---2020-03-21)
+  - Reduced the number of graphs
+- [Escape the Mad House (2020-03-17 - 2020-03-21)](./projects/escape-the-mad-house.md#2020-03-17---2020-03-21)
+  - Did a quick play test focussing on the restriction cards and fixed some content errors
 - [Writing Videos (2020-03-19 - 2020-03-19)](./projects/writing-videos.md#2020-03-19---2020-03-19)
   - Made a video for the "How to enjoy life" post
 - [Writing (2020-03-09 - 2020-03-16)](https://writing.charliejackson.com/writing/enjoy-life.html)
