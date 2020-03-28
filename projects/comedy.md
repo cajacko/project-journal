@@ -15,6 +15,7 @@ In Jan 2013 I started getting into improvised comedy 😂🎭, and since have be
   - [Show History](#show-history)
   - [Courses](#courses)
   - [Updates](#updates)
+    - [2020-03-21 - 2020-03-28](#2020-03-21---2020-03-28)
     - [2020-03-09 - 2020-03-16](#2020-03-09---2020-03-16)
     - [2020-03-02 - 2020-03-08](#2020-03-02---2020-03-08)
     - [2020-02-26 - 2020-03-01](#2020-02-26---2020-03-01)
@@ -117,6 +118,10 @@ And about a dozen or so older shows I can't remember.
 - Spontaneity Shop - Improv Comedy Course Level 1 (2015)
 
 ## Updates
+
+### 2020-03-21 - 2020-03-28
+
+Due to coronavirus I can't do normal improv classes and practice, but did do an online session with The Nursery this week that went really well.
 
 ### 2020-03-09 - 2020-03-16
 

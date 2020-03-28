@@ -13,6 +13,10 @@ situation.
 
 ## Updates 🔼
 
+### 2020-03-17 - 2020-03-21
+
+- Did the first play test with Reaction cards. Was a very short test but think it would be useful to share the restriction before you implement it. Otherwise it becomes impossible to guess.
+
 ### 2020-03-09 - 2020-03-16
 
 Implemented most of the changes from the last play test:

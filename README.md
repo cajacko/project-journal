@@ -21,9 +21,9 @@ The date after the project title is when that project was last updated.
   - [Random Event](projects/random-event.md) 🧙‍♂️ (Nov 2019)
   - [Tower Defense](projects/tower-defense.md) 🗼 (Sep 2019)
 - Programming
+  - [Board Game Builder](projects/board-game-builder.md) 🃏 (Mar 2020)
   - [Improv Stories](./projects/improv-stories.md) 📖 (Mar 2020)
   - [Hidden Maze](projects/hidden-maze.md) 🔀 (Mar 2020)
-  - [Board Game Builder](projects/board-game-builder.md) 🃏 (Mar 2020)
   - [Stand-up Viewer](projects/stand-up-viewer.md) 🎤 (Mar 2020)
   - [charliejackson.com](projects/charlie-jackson-website.md) 🌍 (Feb 2020)
   - [Commit CLI](projects/commit.md) 💻 (Sep 2019)
@@ -78,9 +78,9 @@ The date after the project title is when that project was last updated.
   - [Daily Photo](https://medium.com/projects-by-charlie-jackson/daily-photo-4039e935fa0f) (Apr 2017)
   - [Daily Doodle](https://medium.com/projects-by-charlie-jackson/daily-doodle-doing-a-drawing-every-day-29e12984ea80) (Mar 2017)
 - Miscellaneous
+  - [Writing Videos](projects/writing-videos.md) 📖🎦 (Mar 2020)
   - [Daily Metrics](projects/daily-metrics.md) 📈 (Mar 2020)
   - [Social Dashboard](projects/social-dashboard.md) 📱 (Mar 2020)
-  - [Writing Videos](projects/writing-videos.md) 📖🎦 (Mar 2020)
   - [The Wood Party](projects/the-wood-party.md) 🌲🔥🥳 (Aug 2019)
   - [Story](https://medium.com/projects-by-charlie-jackson/story-combining-my-instagram-story-for-a-month-70f1ccc878e2) (May 2017)
   - [Cook Book](https://medium.com/projects-by-charlie-jackson/cookbook-charlie-and-vikis-recipes-bd725a95b701) (Feb 2017)
@@ -99,6 +99,16 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [Writing (2020-03-21 - 2020-03-28)](https://writing.charliejackson.com/writing/understanding-depression.html)
+  - Started a piece on understanding depression
+- [Zero to hero (2020-03-21 - 2020-03-28)](./projects/zero-to-hero.md#2020-03-21---2020-03-28)
+  - Made print versions of all cards and refined the rules ready for a new play test
+- [Board Game Builder (2020-03-21 - 2020-03-28)](./projects/board-game-builder.md#2020-03-21---2020-03-28)
+  - Added the ability to have options and specify a column for card quantity
+- [Writing Videos (2020-03-21 - 2020-03-28)](./projects/writing-videos.md#2020-03-21---2020-03-28)
+  - Made a video for the "Give Up All Your Data" post
+- [Comedy (2020-03-21 - 2020-03-28)](./projects/comedy.md#2020-03-21---2020-03-28)
+  - Did my first online improv class, went really well
 - [Social Dashboard (2020-03-17 - 2020-03-21)](./projects/social-dashboard.md#2020-03-17---2020-03-21)
   - Built a Google Sheet for displaying my social posts and inspiring me to post more and better content
 - [Improv Stories (2020-03-17 - 2020-03-21)](./projects/improv-stories.md#2020-03-17---2020-03-21)

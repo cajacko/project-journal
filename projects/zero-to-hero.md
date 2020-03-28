@@ -11,6 +11,12 @@ A board game where players start as a normal person and by the end of the game h
 
 ## Updates 🔼
 
+### 2020-03-21 - 2020-03-28
+
+Worked on getting a fully printed version based off the data in Google Sheets so I can more easily keep track of the changes and have a nicer version to play test.
+
+![Zero to Hero](../assets/zero-to-hero-009.jpg)
+
 ### 2020-03-09 - 2020-03-16
 
 Implemented the idea of having action dice. This didn't work. It was more fun to have action cards that could only be spent once but could do multiple things, rather than dice which only shows 1 kind of action, or you can change to anything. It's also easier to wrap more theme into cards.

@@ -7,8 +7,13 @@ This is a Desktop Application that loads in data from Google Sheets and lets you
 - Allow the difference between a sheet being for multiple cards or for a single card
 - Make some more generic designs
 - Deploy as a stand alone app that still watches and reloads changes from the design directory
+- Let you edit a sheet ID, so you can keep the saved state like column mapping, designs etc
 
 ## Updates 🔼
+
+### 2020-03-21 - 2020-03-28
+
+Added the ability to have options and specify a column for card quantity. The options make it possible to specify a front and back design for a card and print both at the same time. The card quantity feature let's you print duplicates of some cards.
 
 ### 2020-03-09 - 2020-03-16
 
