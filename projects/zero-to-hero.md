@@ -8,14 +8,40 @@ A board game where players start as a normal person and by the end of the game h
 - Keep playing through the current version
 - Figure out available gadget process, feels clunky and not as exciting as it could be
 - Figure out the threat track, good end values, does the roll system work etc.
+- Experiment with the notes from [2020-03-29 - 2020-04-04](#2020-03-29---2020-04-04)
 
 ## Updates 🔼
+
+### 2020-03-29 - 2020-04-04
+
+Had a good 2 person play test with the newly printed versions. Here's the notes:
+
+- Didn't move up the victory track quickly enough. Opportunity to first couple of VP's should be sooner
+- Increase the benefit of set, bonus is only +3 dice atm
+- Experiment with the villain phase happening after every player
+  - Makes it harder to balance when change number of players
+  - Means players can do their actions at the same time, which should greatly increase collaboration
+  - Means you do less admin, but should make the villain phase more impactful
+  - Might need to play as multiple vigilantes to handle this? Like Zombicide? But might be too awkward unless they share the action cards?
+- The gadget that slows down crimes (by rotating them) should do more than 1 rotation, as that doesn't really change anything
+- Across the board increase the number of dice gadgets/action cards give? Or improve odds on dice
+- Don't have any cards with only 1 action
+- Quite often want more movement allowance. Maybe increase min to 2?
+- Didn't feel like explored the board enough, increasing movement and hand limit may help
+- Vigilantes weren't getting as powerful compared to the crimes
+- Got through the crimes too quickly. May need more, or slow down how many wre completing.
+- Lower the target to attack villains, they're harder anyway as need to do multiple times
+- Upgraded a bit too soon (on 1st or 2nd turn)
+- May need individual discard piles for each gadget level, or have a lot more?
+- The gadgets could be like a conveyor belt system, new one at the end of each turn, and pushes out old ones
+- Should make it more obvious that hitting the crime target solves it, doesn't turn it clockwise
+- Need a space for unused experience dice on the player sheet
+
+![Zero to Hero](../assets/zero-to-hero-009.jpg)
 
 ### 2020-03-21 - 2020-03-28
 
 Worked on getting a fully printed version based off the data in Google Sheets so I can more easily keep track of the changes and have a nicer version to play test.
-
-![Zero to Hero](../assets/zero-to-hero-009.jpg)
 
 ### 2020-03-09 - 2020-03-16
 

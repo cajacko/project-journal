@@ -4,6 +4,13 @@ In service of developing my thinking and improving my communication of ideas, I'
 
 ## Updates 🔼
 
+### 2020-03-29 - 2020-04-04
+
+Selfish Dick or Depressed and Needs Help?:
+
+- [Link to video](https://www.youtube.com/watch?v=y1GnciWFDeM)
+- [Link to post](https://writing.charliejackson.com/writing/selfish-or-depressed.html)
+
 ### 2020-03-21 - 2020-03-28
 
 Give Up All Your Data:
