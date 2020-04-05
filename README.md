@@ -72,13 +72,13 @@ The date after the project title is when that project was last updated.
   - [Sailing Sound System](https://medium.com/projects-by-charlie-jackson/sailing-sound-system-as-level-design-project-7082fc8947c6) (Jun 2008)
   - [Portable Audio Mixer](https://medium.com/projects-by-charlie-jackson/portable-audio-mixer-gcse-electronics-project-a0225fa81d9e) (Mar 2007)
 - Art, Tattoos and Model Making
-  - [Story](./projects/story.md) (Apr 2020)
   - [Mantra Tattoo](projects/mantra-tattoo.md) 🖌 (Sep 2019)
   - [Miniature Gaming and Modelling](projects/miniatures.md) 👨‍🎨 - (Dec 2019)
   - [Drawing](projects/drawing.md) ✏️ (Nov 2019)
   - [Daily Photo](https://medium.com/projects-by-charlie-jackson/daily-photo-4039e935fa0f) (Apr 2017)
   - [Daily Doodle](https://medium.com/projects-by-charlie-jackson/daily-doodle-doing-a-drawing-every-day-29e12984ea80) (Mar 2017)
 - Miscellaneous
+  - [Story](./projects/story.md) (Apr 2020)
   - [Writing Videos](projects/writing-videos.md) 📖🎦 (Apr 2020)
   - [Daily Metrics](projects/daily-metrics.md) 📈 (Mar 2020)
   - [Social Dashboard](projects/social-dashboard.md) 📱 (Mar 2020)
