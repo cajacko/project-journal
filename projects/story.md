@@ -4,6 +4,10 @@ Every now and then I decide to get into doing my Instagram Story. Mainly as a jo
 
 ## Updates 🔼
 
+### 2020-04-05 - 2020-04-14
+
+Continuing my story with Easter fun times, lots of board games, pretty sunsets and playing with circus stuff.
+
 ### 2020-03-29 - 2020-04-04
 
 Started getting back into my story during Coronavirus isolation. Going well, now want to start creating the weekly, monthly and yearly combination videos that I did before.

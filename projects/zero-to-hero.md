@@ -12,6 +12,32 @@ A board game where players start as a normal person and by the end of the game h
 
 ## Updates 🔼
 
+### 2020-04-05 - 2020-04-14
+
+Started trying out some of the ideas from the last play test session. Primarily how to make it work so all the vigilantes take their actions before the villain phase. Here's the new notes:
+
+- Need to spawn quite a few more crimes, don't want a situation where the players managed to clear all crimes omn the board
+- Would be useful if players can do something else if they can't thwart a crime. Perhaps searching a location? Or an action on a location
+- Could have a search deck which could result in you getting:
+  - A gadget
+  - More experience
+  - Trigger an event e.g. thwart attempt on a nearby crime, rotate crimes, spawn crimes etc
+- Searching as the primary way of getting gadgets will simplify the awkward gadget mechanism we have currently
+- Can replace the money icon, as wouldn't be buying gadgets and instead have a search icon
+- Means we can get rid of the hideout as well
+- Balancing 1 villain phase after all vigilantes when you have different number of players could be tricky
+  - Could change the amount of VP's required?
+  - Could change amount of crimes spawned?
+  - Could require 4 vigilantes to be played and you play multiple with less players?
+- Came up with an interesting new way of upgrading your vigilante in a more more flexible way (see image)
+  - You start with a base vigilante card with basic stats and 1 text ability
+  - This card specifies what cards you can upgrade to on the left or right
+  - When you purchase and upgrade (through exp? or could do as a reward or search? or when get a VP everyone upgrades) you overlay that card ontop of the specified part of the vigilante card
+  - Upgraded cards will specify further upgrades
+  - Means you would need an ordered set of upgrade cards with a quick way to find them (like 7th continent)
+
+![Zero to Hero](../assets/zero-to-hero-010.png)
+
 ### 2020-03-29 - 2020-04-04
 
 Had a good 2 person play test with the newly printed versions. Here's the notes:

@@ -10,7 +10,7 @@ work I did on a project.
 
 The date after the project title is when that project was last updated.
 
-- [Comedy](projects/comedy.md) 🎭 (Mar 2020)
+- [Comedy](projects/comedy.md) 🎭 (Apr 2020)
 - [Writing](https://writing.charliejackson.com) 📚 (Apr 2020)
 - Board Games 🎲
   - [Zero to Hero](projects/zero-to-hero.md) 🦸‍♂️(Apr 2020)
@@ -78,6 +78,9 @@ The date after the project title is when that project was last updated.
   - [Daily Photo](https://medium.com/projects-by-charlie-jackson/daily-photo-4039e935fa0f) (Apr 2017)
   - [Daily Doodle](https://medium.com/projects-by-charlie-jackson/daily-doodle-doing-a-drawing-every-day-29e12984ea80) (Mar 2017)
 - Miscellaneous
+  - [Yo-yo](./projects/yo-yo.md) 🪀 (Apr 2020)
+  - [Origami](projects/origami.md) 🗺 (Apr 2020)
+  - [Circus Skills](projects/circus-skills.md) 🎪 (Apr 2020)
   - [Story](./projects/story.md) (Apr 2020)
   - [Writing Videos](projects/writing-videos.md) 📖🎦 (Apr 2020)
   - [Daily Metrics](projects/daily-metrics.md) 📈 (Mar 2020)
@@ -99,13 +102,27 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [Yo-yo (2020-04-05 - 2020-04-14)](./projects/yo-yo.md#2020-04-05---2020-04-14)
+  - Another new way to enjoy isolation. Used to do it a lot as a kid, so decided to start up again
+- [Origami (2020-04-05 - 2020-04-14)](./projects/origami.md#2020-04-05---2020-04-14)
+  - Was looking at new things to do in isolation, and the idea of making origami dinosaurs seemed nice and relaxing
+- [Zero to hero (2020-04-05 - 2020-04-14)](./projects/zero-to-hero.md#2020-04-05---2020-04-14)
+  - Had a solo play test trying out doing all the vigilantes turn before the villains and came up with some new upgrade methods and other notes
+- [Circus Skills (2020-04-05 - 2020-04-14)](./projects/circus-skills.md#2020-04-05---2020-04-14)
+  - Found all my old juggling and circus equipment during isolation so time to learn to do the clubs properly
+- [Story (2020-04-05 - 2020-04-14)](./projects/story.md#2020-04-05---2020-04-14)
+  - board games and more board games, fire, circus, easter, origami
+- [Writing (2020-04-05 - 2020-04-14)](https://writing.charliejackson.com/writing/selfish-or-depressed.html)
+  - Selfish dick or depressed and needs help
+- [Comedy (2020-04-05 - 2020-04-14)](./projects/comedy.md#2020-04-05---2020-04-14)
+  - Stand-up workshop
 - [Zero to hero (2020-03-29 - 2020-04-04)](./projects/zero-to-hero.md#2020-03-29---2020-04-04)
   - Had a good play test, with notes around doing the villains phase after the all players and having easier villains
 - [Writing (2020-03-29 - 2020-04-04)](https://writing.charliejackson.com/writing/selfish-or-depressed.html)
   - Finished "Selfish Dick or Depressed and Needs Help?"
 - [Writing Videos (2020-03-29 - 2020-04-04)](./projects/writing-videos.md#2020-03-29---2020-04-04)
   - Made a video for the "Selfish Dick or Depressed and Needs Help?" post
-- [Story (2020-03-29 - 2020-04-04)](./projects/Story.md#2020-03-29---2020-04-04)
+- [Story (2020-03-29 - 2020-04-04)](./projects/story.md#2020-03-29---2020-04-04)
   - Been starting my Instagram story again, nice little isolation project
 - [Writing (2020-03-21 - 2020-03-28)](https://writing.charliejackson.com/writing/understanding-depression.html)
   - Started a piece on understanding depression
