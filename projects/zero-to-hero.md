@@ -12,6 +12,22 @@ A board game where players start as a normal person and by the end of the game h
 
 ## Updates 🔼
 
+### 2020-04-15 - 2020-05-03
+
+Didn't do that much in this time but did update the rules for simultaneous play, figured out a bunch of search cards and tweaked some card values in the spreadsheet. Here's some of the ideas for search cards:
+
+- Gadget at current level
+- Gadget at +x level
+- x gadgets
+- x gadgets keep y
+- +x experience
+- free upgrade (rare)
+- spawn x crimes (rare)
+- scheme all crimes (rare)
+- villain action (rare)
+- Thwart attempt on adjacent crime +x dice
+- Special action cards that you add to your hand and can use normally, but return to the search discard pile or lose. e.g. allies etc (much more dice or movement)
+
 ### 2020-04-05 - 2020-04-14
 
 Started trying out some of the ideas from the last play test session. Primarily how to make it work so all the vigilantes take their actions before the villain phase. Here's the new notes:

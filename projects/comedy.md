@@ -15,6 +15,7 @@ In Jan 2013 I started getting into improvised comedy 😂🎭, and since have be
   - [Show History](#show-history)
   - [Courses](#courses)
   - [Updates](#updates)
+    - [2020-04-15 - 2020-05-03](#2020-04-15---2020-05-03)
     - [2020-04-05 - 2020-04-14](#2020-04-05---2020-04-14)
     - [2020-03-21 - 2020-03-28](#2020-03-21---2020-03-28)
     - [2020-03-09 - 2020-03-16](#2020-03-09---2020-03-16)
@@ -91,6 +92,7 @@ And about a dozen or so older shows I can't remember.
 
 ## Courses
 
+- Hoopla - Perfoming Improv Online (2020)
 - Nick Hall - Online Stand-Up Workshop (2020)
 - The Nursery - Online Improv Workshop (2020)
 - Zack Zucker - Clowning Workshop (2020)
@@ -118,6 +120,10 @@ And about a dozen or so older shows I can't remember.
 - Spontaneity Shop - Improv Comedy Course Level 1 (2015)
 
 ## Updates
+
+### 2020-04-15 - 2020-05-03
+
+Started a 4 week course on performing improv comedy online. It's a super fun course with lots of experimental ideas. Done a bunch of newscaster setups and making use of the chat window.
 
 ### 2020-04-05 - 2020-04-14
 

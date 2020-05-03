@@ -10,10 +10,10 @@ work I did on a project.
 
 The date after the project title is when that project was last updated.
 
-- [Comedy](projects/comedy.md) 🎭 (Apr 2020)
+- [Comedy](projects/comedy.md) 🎭 (May 2020)
 - [Writing](https://writing.charliejackson.com) 📚 (Apr 2020)
 - Board Games 🎲
-  - [Zero to Hero](projects/zero-to-hero.md) 🦸‍♂️(Apr 2020)
+  - [Zero to Hero](projects/zero-to-hero.md) 🦸‍♂️(May 2020)
   - [Escape the Mad House](projects/escape-the-mad-house.md) 🏚 (Mar 2020)
   - [Hidden Maze](projects/hidden-maze.md) 🔀 (Mar 2020)
   - [Mini Strategy](projects/mini-strategy.md) 🃏 (Mar 2020)
@@ -21,8 +21,9 @@ The date after the project title is when that project was last updated.
   - [Random Event](projects/random-event.md) 🧙‍♂️ (Nov 2019)
   - [Tower Defense](projects/tower-defense.md) 🗼 (Sep 2019)
 - Programming
+  - [Improv Stories](./projects/improv-stories.md) 📖 (May 2020)
+  - [Online Performing Tools](./projects/online-performing-tools.md) 🕴 (May 2020)
   - [Board Game Builder](projects/board-game-builder.md) 🃏 (Mar 2020)
-  - [Improv Stories](./projects/improv-stories.md) 📖 (Mar 2020)
   - [Hidden Maze](projects/hidden-maze.md) 🔀 (Mar 2020)
   - [Stand-up Viewer](projects/stand-up-viewer.md) 🎤 (Mar 2020)
   - [charliejackson.com](projects/charlie-jackson-website.md) 🌍 (Feb 2020)
@@ -78,10 +79,10 @@ The date after the project title is when that project was last updated.
   - [Daily Photo](https://medium.com/projects-by-charlie-jackson/daily-photo-4039e935fa0f) (Apr 2017)
   - [Daily Doodle](https://medium.com/projects-by-charlie-jackson/daily-doodle-doing-a-drawing-every-day-29e12984ea80) (Mar 2017)
 - Miscellaneous
+  - [Story](./projects/story.md) (May 2020)
   - [Yo-yo](./projects/yo-yo.md) 🪀 (Apr 2020)
   - [Origami](projects/origami.md) 🗺 (Apr 2020)
   - [Circus Skills](projects/circus-skills.md) 🎪 (Apr 2020)
-  - [Story](./projects/story.md) (Apr 2020)
   - [Writing Videos](projects/writing-videos.md) 📖🎦 (Apr 2020)
   - [Daily Metrics](projects/daily-metrics.md) 📈 (Mar 2020)
   - [Social Dashboard](projects/social-dashboard.md) 📱 (Mar 2020)
@@ -102,6 +103,16 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [Improv Stories (2020-04-15 - 2020-05-03)](./projects/improv-stories.md#2020-04-15---2020-05-03)
+  - Built and deployed a whole new version that works!
+- [Online Performing Tools (2020-04-15 - 2020-05-03)](./projects/online-performing-tools.md#2020-04-15---2020-05-03)
+  - Built a chrome plugin that replaces YouTube video content with your camera feed
+- [Comedy (2020-04-15 - 2020-05-03)](./projects/comedy.md#2020-04-15---2020-05-03)
+  - Started a new course on performing online improv
+- [Zero to hero (2020-04-15 - 2020-05-03)](./projects/zero-to-hero.md#2020-04-15---2020-05-03)
+  - Tweaked some of the card values, wrote new rules for simultaneous play and started figuring out what kind of search cards to have
+- [Story (2020-04-15 - 2020-05-03)](./projects/story.md#2020-04-15---2020-05-03)
+  - Fires, origami, sushi, art club, club club and world naked gardening day
 - [Yo-yo (2020-04-05 - 2020-04-14)](./projects/yo-yo.md#2020-04-05---2020-04-14)
   - Another new way to enjoy isolation. Used to do it a lot as a kid, so decided to start up again
 - [Origami (2020-04-05 - 2020-04-14)](./projects/origami.md#2020-04-05---2020-04-14)
@@ -111,7 +122,7 @@ The date after the project title is when that project was last updated.
 - [Circus Skills (2020-04-05 - 2020-04-14)](./projects/circus-skills.md#2020-04-05---2020-04-14)
   - Found all my old juggling and circus equipment during isolation so time to learn to do the clubs properly
 - [Story (2020-04-05 - 2020-04-14)](./projects/story.md#2020-04-05---2020-04-14)
-  - board games and more board games, fire, circus, easter, origami
+  - Board games and more board games, fire, circus, easter, origami
 - [Writing (2020-04-05 - 2020-04-14)](https://writing.charliejackson.com/writing/selfish-or-depressed.html)
   - Selfish dick or depressed and needs help
 - [Comedy (2020-04-05 - 2020-04-14)](./projects/comedy.md#2020-04-05---2020-04-14)
