@@ -21,7 +21,7 @@ The date after the project title is when that project was last updated.
   - [Random Event](projects/random-event.md) 🧙‍♂️ (Nov 2019)
   - [Tower Defense](projects/tower-defense.md) 🗼 (Sep 2019)
 - Programming
-  - [Improv Stories](./projects/improv-stories.md) 📖 (May 2020)
+  - [Improv Stories](./projects/improv-stories.md) 📖 (Jun 2020)
   - [Online Performing Tools](./projects/online-performing-tools.md) 🕴 (May 2020)
   - [Board Game Builder](projects/board-game-builder.md) 🃏 (Mar 2020)
   - [Hidden Maze](projects/hidden-maze.md) 🔀 (Mar 2020)
@@ -103,6 +103,8 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [Improv Stories (2020-05-03 - 2020-06-07)](./projects/improv-stories.md#2020-05-03---2020-06-07)
+  - Added the standard and live modes, bug fixes
 - [Improv Stories (2020-04-15 - 2020-05-03)](./projects/improv-stories.md#2020-04-15---2020-05-03)
   - Built and deployed a whole new version that works!
 - [Online Performing Tools (2020-04-15 - 2020-05-03)](./projects/online-performing-tools.md#2020-04-15---2020-05-03)

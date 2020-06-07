@@ -8,6 +8,15 @@ You can view the code on [GitHub](https://github.com/cajacko/improv-stories).
 
 ## Updates 🔼
 
+### 2020-05-03 - 2020-06-07
+
+Renamed the currently functionality as "Live" and added a new mode "Standard" here's the difference:
+
+- Standard - You can write the story over multiple days, you don't need to all be online at the same time to play. And anyone can take a turn as long as they weren't the last person to go
+- Live - Get online with friends and write a story together in real time
+
+Also fixed a bunch of bugs to make it more stable. Still a few interesting ones out there, but it's looking good.
+
 ### 2020-04-15 - 2020-05-03
 
 Rebuilt the entire thing, with a focus on just getting something out that works so people can give it a go during Coronavirus lockdown. The current version supports live story writing only.
