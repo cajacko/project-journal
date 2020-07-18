@@ -20,7 +20,7 @@ The date after the project title is when that project was last updated.
   - [Vigilantes](projects/vigilantes.md) 🦹‍♂️ (Jan 2020)
   - [Random Event](projects/random-event.md) 🧙‍♂️ (Nov 2019)
   - [Tower Defense](projects/tower-defense.md) 🗼 (Sep 2019)
-- Programming
+- Programming Projects 💻
   - [Improv Stories](./projects/improv-stories.md) 📖 (Jun 2020)
   - [Online Performing Tools](./projects/online-performing-tools.md) 🕴 (May 2020)
   - [Board Game Builder](projects/board-game-builder.md) 🃏 (Mar 2020)
@@ -50,7 +50,11 @@ The date after the project title is when that project was last updated.
   - [Remember When](https://medium.com/projects-by-charlie-jackson/remember-when-micro-journaling-platform-92a921c89ef8) (Feb 2016)
   - [indiajackson.co.uk](https://medium.com/projects-by-charlie-jackson/india-jackson-website-my-little-sisters-portfolio-eea5f901410d) (Jun 2015)
   - [Nine Line](https://medium.com/projects-by-charlie-jackson/nineline-timeline-to-help-you-track-trends-and-predictions-8b079c846bd1) (May 2015)
-- Startup and Entrepreneurship
+- Startups
+  - [WalkUp](./projects/walkup.md) (Jun 2020)
+  - [EventsTag](./projects/eventstag.md) (Mar 2020)
+  - [Graftt](./projects/graftt.md) (Mar 2020)
+  - [Curious Squid](./projects/curious-squid.md) (Nov 2019)
   - [Nine Studios](https://medium.com/projects-by-charlie-jackson/nine-studios-my-tech-startup-9cb36234e17f) (Oct 2015)
   - [Nine Store](https://medium.com/projects-by-charlie-jackson/nine-store-e6ccc1b86221) (Feb 2013)
 - Industrial Design and Engineering
@@ -78,7 +82,21 @@ The date after the project title is when that project was last updated.
   - [Drawing](projects/drawing.md) ✏️ (Nov 2019)
   - [Daily Photo](https://medium.com/projects-by-charlie-jackson/daily-photo-4039e935fa0f) (Apr 2017)
   - [Daily Doodle](https://medium.com/projects-by-charlie-jackson/daily-doodle-doing-a-drawing-every-day-29e12984ea80) (Mar 2017)
+- Programming Concepts and Learnings 👨‍💻
+  - [JavaScript](./projects/javascript.md) (Jun 2020)
+  - [Monorepos](./projects/monorepo.md) (Jun 2020)
+  - [Text Content & Localisation](./projects/text-content-localisation.md) (Jun 2020)
+  - [Continuous Integration](./projects/continuous-integration.md) (Jun 2020)
+  - [Go](./projects/go.md) (Jun 2020)
+- Entrepreneurship & Business 🕴
+  - [Strategy](./projects/strategy.md) (Jun 2020)
+  - [Line Management](./projects/line-management.md) (Jun 2020)
+  - [Task Management](./projects/task-management.md) (Jun 2020)
+  - [MSc Technology Entrepreneurship at UCL](./projects/msc-technology-entrepreneurship.md) (Mar 2020)
 - Miscellaneous
+  - [Life Hacks](./projects/life-hacks.md) (Jun 2020)
+  - [Reading Room](./projects/reading-room.md) ()
+  - [BEng Product Design and Manufacture Engineering - University of Nottingham](./projects/beng-nottingham.md) ()
   - [Story](./projects/story.md) (May 2020)
   - [Yo-yo](./projects/yo-yo.md) 🪀 (Apr 2020)
   - [Origami](projects/origami.md) 🗺 (Apr 2020)
@@ -227,6 +245,8 @@ The date after the project title is when that project was last updated.
   - Printed out a new version with more cards 🃏
 - [Writing (2019-11-18 - 2019-12-01)](https://writing.charliejackson.com/writing/kill-the-dog.html)
   - Killing the Dog 🐶 (Short post on mindfulness to combat losing your mind)
+- [Curious Squid (2019-04-01 - 2019-11-30)](./projects/curious-squid.md#2019-04-01---2018-11-30)
+  - Another contract with BlackCat for their same client ICIS. But working and leading a different team this time
 - [Writing (2019-11-11 - 2019-11-16)](https://writing.charliejackson.com/writing/alcohol-drugs.html)
   - Balancing Alcohol, Drugs and Fun 🍻 (Short post on how fun substances are)
 - [Writing (2019-10-15 - 2019-11-11)](https://writing.charliejackson.com/writing/forgetting.html)
@@ -260,9 +280,13 @@ The date after the project title is when that project was last updated.
 - [Writing (2019-08-06 - 2019-08-14)](https://writing.charliejackson.com/writing/under-the-bridge.html)
   - Under the Bridge 🌉 (short fiction piece)
 - [Writing (2019-07-29 - 2019-08-05)](https://writing.charliejackson.com/writing/forming-beliefs.html)
-  - How to Form Beliefs 🤔`
+  - How to Form Beliefs 🤔
+- [Curious Squid (2019-03-01 - 2019-03-31)](./projects/curious-squid.md#2019-03-01---2018-03-31)
+  - Short freelance contract for EventsTag
 - [Writing (2018-11-30 - 2018-11-30)](https://medium.com/lessons-by-charlie-jackson/its-all-your-fault-8bf87a9138fa)
   - It's all your fault
+- [Curious Squid (2018-03-01 - 2018-11-30)](./projects/curious-squid.md#2018-03-01---2018-11-30)
+  - An 8 month contract with BlackCat running the JavaScript team for their client ICIS
 - [Writing (2018-11-17 - 2018-11-17)](https://medium.com/lessons-by-charlie-jackson/listen-its-not-about-you-86c93f74df83)
   - Listen - It’s Not About You
 - [Writing (2018-11-09 - 2018-11-09)](https://medium.com/lessons-by-charlie-jackson/how-thinking-in-probabilities-helps-you-make-better-decisions-c82e09bd183a)
@@ -275,6 +299,8 @@ The date after the project title is when that project was last updated.
   - Start small and do less — Forming habits for life
 - [Writing (2018-04-02 - 2018-04-02)](https://medium.com/lessons-by-charlie-jackson/calm-yourself-using-lists-picking-your-battles-and-paying-for-simplicity-36488e87a9ee)
   - Calm yourself using lists, picking your battles and paying for simplicity
+- [Curious Squid (2018-03-01 - 2018-03-31)](./projects/curious-squid.md#2018-03-01---2018-03-31)
+  - A short freelance project for Overtone Digital
 - [Writing (2018-03-04 - 2018-03-04)](https://medium.com/lessons-by-charlie-jackson/be-curious-tell-people-what-you-want-and-23-more-lessons-from-this-week-cff6967706b7)
   - Be curious, tell people what you want and 23 more lessons from this week
 - [Writing (2018-02-26 - 2018-02-26)](https://medium.com/lessons-by-charlie-jackson/plan-fun-shit-death-to-cms-and-have-a-hangover-work-plan-c5f747650bf3)
