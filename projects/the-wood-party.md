@@ -6,9 +6,27 @@ The Wood Party is an annual party/rave/festival ⛺️ put on by [me](https://ch
 
 ---
 
+### 2020-08-21 - 2020-08-29
+
+The Wood Party year 10, my 30th party and Vikis actual 29th. Lots to celebrate, minor issue with COVID-19 so we were legally limited to 30 people. But that didn't stop us having a lot of fun and doing even more decoration.
+
+- Got some oil barrells to use as table tops
+- Got various stuff from prop houses to make some cool new decorations
+- Got a bunch of creepy dolls heads
+- The crazy lazer light from the Shellpits Club came in handy
+- India made a fun shutter backdrop something :)
+
+![The Wood Party 2020 Lights](../assets/the-wood-party-2020-lights.jpg)
+![The Wood Party 2020 Glitter Station](../assets/the-wood-party-2020-glitter-station.jpg)
+![The Wood Party 2020 Shutters](../assets/the-wood-party-2020-shutters.jpg)
+![The Wood Party 2020 Heads](../assets/the-wood-party-2020-heads.jpg)
+![The Wood Party 2020 Barrels](../assets/the-wood-party-2020-barrels.jpg)
+
+---
+
 ### 2019-06-14 - 2019-08-18
 
-The Wood Part year 9! This year we focussed on building a whole set of bars and furniture ⑁. Using reclaimed pallets, painting 🎨 them fun colours and building/assembling them into bars and seating.
+The Wood Party year 9! This year we focussed on building a whole set of bars and furniture ⑁. Using reclaimed pallets, painting 🎨 them fun colours and building/assembling them into bars and seating.
 
 We also saw the return of the giant balloons 🎈, hammocks, fire dancing 🔥, jellyfish umbrellas ☂️ and glitter station. We tried out some new festoon lighting 💡 which worked super well and a bubble machine 🧼!
 

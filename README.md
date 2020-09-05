@@ -94,6 +94,7 @@ The date after the project title is when that project was last updated.
   - [Task Management](./projects/task-management.md) (Jun 2020)
   - [MSc Technology Entrepreneurship at UCL](./projects/msc-technology-entrepreneurship.md) (Mar 2020)
 - Miscellaneous
+  - [The Wood Party](projects/the-wood-party.md) 🌲🔥🥳 (Aug 2020)
   - [Life Hacks](./projects/life-hacks.md) (Jun 2020)
   - [Reading Room](./projects/reading-room.md) ()
   - [BEng Product Design and Manufacture Engineering - University of Nottingham](./projects/beng-nottingham.md) ()
@@ -104,7 +105,6 @@ The date after the project title is when that project was last updated.
   - [Writing Videos](projects/writing-videos.md) 📖🎦 (Apr 2020)
   - [Daily Metrics](projects/daily-metrics.md) 📈 (Mar 2020)
   - [Social Dashboard](projects/social-dashboard.md) 📱 (Mar 2020)
-  - [The Wood Party](projects/the-wood-party.md) 🌲🔥🥳 (Aug 2019)
   - [Cook Book](https://medium.com/projects-by-charlie-jackson/cookbook-charlie-and-vikis-recipes-bd725a95b701) (Feb 2017)
   - [Tennis](https://medium.com/projects-by-charlie-jackson/tennis-aabf347eed26) (Aug 2016)
   - [Saxophone](https://medium.com/projects-by-charlie-jackson/saxophone-7ac114ff263e) (Jul 2016)
@@ -121,6 +121,8 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [The Wood Party (2020-08-21 - 2020-08-29)](./projects/the-wood-party.md#2020-08-21---2020-08-29)
+  - The Wood Party 2020, 10th
 - [Improv Stories (2020-05-03 - 2020-06-07)](./projects/improv-stories.md#2020-05-03---2020-06-07)
   - Added the standard and live modes, bug fixes
 - [Improv Stories (2020-04-15 - 2020-05-03)](./projects/improv-stories.md#2020-04-15---2020-05-03)
