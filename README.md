@@ -58,6 +58,7 @@ The date after the project title is when that project was last updated.
   - [Nine Studios](https://medium.com/projects-by-charlie-jackson/nine-studios-my-tech-startup-9cb36234e17f) (Oct 2015)
   - [Nine Store](https://medium.com/projects-by-charlie-jackson/nine-store-e6ccc1b86221) (Feb 2013)
 - Industrial Design and Engineering
+  - [Board Game Table](./projects/board-game-table.md) 🎲 (Sep 2020)
   - [Photo Realistic Renders](https://medium.com/projects-by-charlie-jackson/renders-photo-realistic-rendering-fd4ec54289d2) (Jun 2016)
   - [Portfolios](https://medium.com/projects-by-charlie-jackson/portfolios-2dccf4b642d3) (Apr 2016)
   - [DataLight](https://medium.com/projects-by-charlie-jackson/datalight-connected-light-for-the-workplace-c0a452f14a96) (Feb 2015)
@@ -123,6 +124,8 @@ The date after the project title is when that project was last updated.
 
 - [The Wood Party (2020-08-21 - 2020-08-29)](./projects/the-wood-party.md#2020-08-21---2020-08-29)
   - The Wood Party 2020, 10th
+- [Board Game Table (2020-07-11 - 2020-09-05)](./projects/board-game-table.md#2020-07-11---2020-09-05)
+  - Designed and built a board game table 🎲
 - [Improv Stories (2020-05-03 - 2020-06-07)](./projects/improv-stories.md#2020-05-03---2020-06-07)
   - Added the standard and live modes, bug fixes
 - [Improv Stories (2020-04-15 - 2020-05-03)](./projects/improv-stories.md#2020-04-15---2020-05-03)
