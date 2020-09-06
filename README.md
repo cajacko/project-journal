@@ -122,10 +122,14 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
-- [The Wood Party (2020-08-21 - 2020-08-29)](./projects/the-wood-party.md#2020-08-21---2020-08-29)
-  - The Wood Party 2020, 10th
+- [WalkUp (2020-06-21 - 2020-09-06)](./projects/walkup.md#2020-06-21---2020-09-06)
+  - Scaling issues, performance, priorities and interns
 - [Board Game Table (2020-07-11 - 2020-09-05)](./projects/board-game-table.md#2020-07-11---2020-09-05)
   - Designed and built a board game table 🎲
+- [The Wood Party (2020-08-21 - 2020-08-29)](./projects/the-wood-party.md#2020-08-21---2020-08-29)
+  - The Wood Party 2020, 10th
+- [WalkUp (2020-05-01 - 2020-06-20)](./projects/walkup.md#2020-05-01---2020-06-20)
+  - Working on localisation
 - [Improv Stories (2020-05-03 - 2020-06-07)](./projects/improv-stories.md#2020-05-03---2020-06-07)
   - Added the standard and live modes, bug fixes
 - [Improv Stories (2020-04-15 - 2020-05-03)](./projects/improv-stories.md#2020-04-15---2020-05-03)
@@ -138,6 +142,8 @@ The date after the project title is when that project was last updated.
   - Tweaked some of the card values, wrote new rules for simultaneous play and started figuring out what kind of search cards to have
 - [Story (2020-04-15 - 2020-05-03)](./projects/story.md#2020-04-15---2020-05-03)
   - Fires, origami, sushi, art club, club club and world naked gardening day
+- [WalkUp (2020-03-03 - 2020-04-31)](./projects/walkup.md#2020-03-03---2020-04-31)
+  - Joined WalkUp!
 - [Yo-yo (2020-04-05 - 2020-04-14)](./projects/yo-yo.md#2020-04-05---2020-04-14)
   - Another new way to enjoy isolation. Used to do it a lot as a kid, so decided to start up again
 - [Origami (2020-04-05 - 2020-04-14)](./projects/origami.md#2020-04-05---2020-04-14)

@@ -18,7 +18,7 @@ We've also had some interns which has been a lovely experience. Nice to help peo
 
 ### 2020-05-01 - 2020-06-20
 
-We finally got another developer 🙃 A full time senior backend engineer which greatly helps our capacity as stores around the world start opening again and testing out our platform. For this we spent some time focussing on localisation support (whihc there was none of before). So I had a fun time building a separate package for managing this and allowing us to have different copy depending on whether a vendor is a store or restaurant (otherwise we could have just used another 3rd party library).
+We finally got another developer 🙃 A full time senior backend engineer which greatly helps our capacity as stores around the world start opening again and testing out our platform. For this we spent some time focussing on localisation support (which there was none of before). So I had a fun time building a separate package for managing this and allowing us to have different copy depending on whether a vendor is a store or restaurant (otherwise we could have just used another 3rd party library).
 
 ### 2020-03-03 - 2020-04-31
 
