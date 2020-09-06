@@ -52,8 +52,8 @@ The date after the project title is when that project was last updated.
   - [Nine Line](https://medium.com/projects-by-charlie-jackson/nineline-timeline-to-help-you-track-trends-and-predictions-8b079c846bd1) (May 2015)
 - Startups
   - [WalkUp](./projects/walkup.md) (Jun 2020)
-  - [EventsTag](./projects/eventstag.md) (Mar 2020)
   - [Curious Squid](./projects/curious-squid.md) (Nov 2019)
+  - [EventsTag](./projects/eventstag.md) (Feb 2018)
   - [Nine Studios](https://medium.com/projects-by-charlie-jackson/nine-studios-my-tech-startup-9cb36234e17f) (Oct 2015)
   - [Graftt](./projects/graftt.md) (Mar 2015)
   - [Nine Store](https://medium.com/projects-by-charlie-jackson/nine-store-e6ccc1b86221) (Feb 2013)
