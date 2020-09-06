@@ -98,7 +98,6 @@ The date after the project title is when that project was last updated.
   - [The Wood Party](projects/the-wood-party.md) 🌲🔥🥳 (Aug 2020)
   - [Life Hacks](./projects/life-hacks.md) (Jun 2020)
   - [Reading Room](./projects/reading-room.md) ()
-  - [BEng Product Design and Manufacture Engineering - University of Nottingham](./projects/beng-nottingham.md) ()
   - [Story](./projects/story.md) (May 2020)
   - [Yo-yo](./projects/yo-yo.md) 🪀 (Apr 2020)
   - [Origami](projects/origami.md) 🗺 (Apr 2020)
@@ -112,6 +111,7 @@ The date after the project title is when that project was last updated.
   - [Wedding](https://medium.com/projects-by-charlie-jackson/wedding-i-got-married-dc010b6a26f4) (Jul 2015)
   - [Life Tree](https://medium.com/projects-by-charlie-jackson/life-tree-my-research-on-happiness-78a3e4ff7143) (Apr 2015)
   - [Product Stories](https://medium.com/projects-by-charlie-jackson/product-stories-podcast-where-you-find-out-how-great-products-are-made-569ff0e67290) (Feb 2015)
+  - [BEng Product Design and Manufacture Engineering - University of Nottingham](./projects/beng-nottingham.md) (Jun 2012)
 
 ## Journal
 
