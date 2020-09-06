@@ -51,7 +51,7 @@ The date after the project title is when that project was last updated.
   - [indiajackson.co.uk](https://medium.com/projects-by-charlie-jackson/india-jackson-website-my-little-sisters-portfolio-eea5f901410d) (Jun 2015)
   - [Nine Line](https://medium.com/projects-by-charlie-jackson/nineline-timeline-to-help-you-track-trends-and-predictions-8b079c846bd1) (May 2015)
 - Startups
-  - [WalkUp](./projects/walkup.md) (Jun 2020)
+  - [WalkUp](./projects/walkup.md) (Sep 2020)
   - [Curious Squid](./projects/curious-squid.md) (Nov 2019)
   - [EventsTag](./projects/eventstag.md) (Feb 2018)
   - [Nine Studios](https://medium.com/projects-by-charlie-jackson/nine-studios-my-tech-startup-9cb36234e17f) (Oct 2015)
