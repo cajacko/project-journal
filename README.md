@@ -84,11 +84,8 @@ The date after the project title is when that project was last updated.
   - [Daily Photo](https://medium.com/projects-by-charlie-jackson/daily-photo-4039e935fa0f) (Apr 2017)
   - [Daily Doodle](https://medium.com/projects-by-charlie-jackson/daily-doodle-doing-a-drawing-every-day-29e12984ea80) (Mar 2017)
 - Programming Concepts and Learnings 👨‍💻
+  - [Go](./projects/go.md) (Aug 2020)
   - [JavaScript](./projects/javascript.md) (Jun 2020)
-  - [Monorepos](./projects/monorepo.md) (Jun 2020)
-  - [Text Content & Localisation](./projects/text-content-localisation.md) (Jun 2020)
-  - [Continuous Integration](./projects/continuous-integration.md) (Jun 2020)
-  - [Go](./projects/go.md) (Jun 2020)
 - Entrepreneurship & Business 🕴
   - [Strategy](./projects/strategy.md) (Jun 2020)
   - [Line Management](./projects/line-management.md) (Jun 2020)
@@ -128,6 +125,8 @@ The date after the project title is when that project was last updated.
   - Designed and built a board game table 🎲
 - [The Wood Party (2020-08-21 - 2020-08-29)](./projects/the-wood-party.md#2020-08-21---2020-08-29)
   - The Wood Party 2020, 10th
+- [Go (2020-07-10 - 2020-08-21)](./projects/go.md#2020-07-10---2020-08-21)
+  - Started learning the Go programming language
 - [WalkUp (2020-05-01 - 2020-06-20)](./projects/walkup.md#2020-05-01---2020-06-20)
   - Working on localisation
 - [Improv Stories (2020-05-03 - 2020-06-07)](./projects/improv-stories.md#2020-05-03---2020-06-07)
