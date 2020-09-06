@@ -59,6 +59,7 @@ My first long form group, we ran from 2013 to around 2016 (can't quite remember)
 
 ## Show History
 
+- Pause during COVID-19 😢
 - 2020-03-05 (London, UK) - [Stand Up](#stand-up) level 2 end of course show ([Link to video](https://youtu.be/AEDO13JYqVU))
 - 2020-03-04 (London, UK) - Hosting a comedy night for the Shark Trust
 - 2020-02-01 (London, UK) - Solo [clown](#clowning) show after the Devising Material for Clown course

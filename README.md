@@ -84,8 +84,8 @@ The date after the project title is when that project was last updated.
   - [Daily Photo](https://medium.com/projects-by-charlie-jackson/daily-photo-4039e935fa0f) (Apr 2017)
   - [Daily Doodle](https://medium.com/projects-by-charlie-jackson/daily-doodle-doing-a-drawing-every-day-29e12984ea80) (Mar 2017)
 - Programming Concepts and Learnings 👨‍💻
+  - [JavaScript](./projects/javascript.md) (Sep 2020)
   - [Go](./projects/go.md) (Aug 2020)
-  - [JavaScript](./projects/javascript.md) (Jun 2020)
 - Entrepreneurship & Business 🕴
   - [Strategy](./projects/strategy.md) (Jun 2020)
   - [Line Management](./projects/line-management.md) (Jun 2020)
