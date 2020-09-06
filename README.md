@@ -53,9 +53,9 @@ The date after the project title is when that project was last updated.
 - Startups
   - [WalkUp](./projects/walkup.md) (Jun 2020)
   - [EventsTag](./projects/eventstag.md) (Mar 2020)
-  - [Graftt](./projects/graftt.md) (Mar 2020)
   - [Curious Squid](./projects/curious-squid.md) (Nov 2019)
   - [Nine Studios](https://medium.com/projects-by-charlie-jackson/nine-studios-my-tech-startup-9cb36234e17f) (Oct 2015)
+  - [Graftt](./projects/graftt.md) (Mar 2015)
   - [Nine Store](https://medium.com/projects-by-charlie-jackson/nine-store-e6ccc1b86221) (Feb 2013)
 - Industrial Design and Engineering
   - [Board Game Table](./projects/board-game-table.md) 🎲 (Sep 2020)
