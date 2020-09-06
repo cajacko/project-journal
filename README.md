@@ -97,7 +97,6 @@ The date after the project title is when that project was last updated.
 - Miscellaneous
   - [The Wood Party](projects/the-wood-party.md) 🌲🔥🥳 (Aug 2020)
   - [Life Hacks](./projects/life-hacks.md) (Jun 2020)
-  - [Reading Room](./projects/reading-room.md) ()
   - [Story](./projects/story.md) (May 2020)
   - [Yo-yo](./projects/yo-yo.md) 🪀 (Apr 2020)
   - [Origami](projects/origami.md) 🗺 (Apr 2020)
@@ -105,6 +104,7 @@ The date after the project title is when that project was last updated.
   - [Writing Videos](projects/writing-videos.md) 📖🎦 (Apr 2020)
   - [Daily Metrics](projects/daily-metrics.md) 📈 (Mar 2020)
   - [Social Dashboard](projects/social-dashboard.md) 📱 (Mar 2020)
+  - [Reading Room](./projects/reading-room.md) (Nov 2017)
   - [Cook Book](https://medium.com/projects-by-charlie-jackson/cookbook-charlie-and-vikis-recipes-bd725a95b701) (Feb 2017)
   - [Tennis](https://medium.com/projects-by-charlie-jackson/tennis-aabf347eed26) (Aug 2016)
   - [Saxophone](https://medium.com/projects-by-charlie-jackson/saxophone-7ac114ff263e) (Jul 2016)
