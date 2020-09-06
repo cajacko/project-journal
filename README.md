@@ -86,14 +86,9 @@ The date after the project title is when that project was last updated.
 - Programming Concepts and Learnings 👨‍💻
   - [JavaScript](./projects/javascript.md) (Sep 2020)
   - [Go](./projects/go.md) (Aug 2020)
-- Entrepreneurship & Business 🕴
-  - [Strategy](./projects/strategy.md) (Jun 2020)
-  - [Line Management](./projects/line-management.md) (Jun 2020)
-  - [Task Management](./projects/task-management.md) (Jun 2020)
-  - [MSc Technology Entrepreneurship at UCL](./projects/msc-technology-entrepreneurship.md) (Mar 2020)
 - Miscellaneous
+  - [Life Admin](./projects/life-admin.md) (Sep 2020)
   - [The Wood Party](projects/the-wood-party.md) 🌲🔥🥳 (Aug 2020)
-  - [Life Hacks](./projects/life-hacks.md) (Jun 2020)
   - [Story](./projects/story.md) (May 2020)
   - [Yo-yo](./projects/yo-yo.md) 🪀 (Apr 2020)
   - [Origami](projects/origami.md) 🗺 (Apr 2020)
@@ -108,6 +103,7 @@ The date after the project title is when that project was last updated.
   - [Wedding](https://medium.com/projects-by-charlie-jackson/wedding-i-got-married-dc010b6a26f4) (Jul 2015)
   - [Life Tree](https://medium.com/projects-by-charlie-jackson/life-tree-my-research-on-happiness-78a3e4ff7143) (Apr 2015)
   - [Product Stories](https://medium.com/projects-by-charlie-jackson/product-stories-podcast-where-you-find-out-how-great-products-are-made-569ff0e67290) (Feb 2015)
+  - [MSc Technology Entrepreneurship at UCL](./projects/msc-technology-entrepreneurship.md) (Jun 2013)
   - [BEng Product Design and Manufacture Engineering - University of Nottingham](./projects/beng-nottingham.md) (Jun 2012)
 
 ## Journal
@@ -255,7 +251,7 @@ The date after the project title is when that project was last updated.
   - Printed out a new version with more cards 🃏
 - [Writing (2019-11-18 - 2019-12-01)](https://writing.charliejackson.com/writing/kill-the-dog.html)
   - Killing the Dog 🐶 (Short post on mindfulness to combat losing your mind)
-- [Curious Squid (2019-04-01 - 2019-11-30)](./projects/curious-squid.md#2019-04-01---2018-11-30)
+- [Curious Squid (2019-04-01 - 2019-11-30)](./projects/curious-squid.md#2019-04-01---2019-11-30)
   - Another contract with BlackCat for their same client ICIS. But working and leading a different team this time
 - [Writing (2019-11-11 - 2019-11-16)](https://writing.charliejackson.com/writing/alcohol-drugs.html)
   - Balancing Alcohol, Drugs and Fun 🍻 (Short post on how fun substances are)
@@ -291,7 +287,7 @@ The date after the project title is when that project was last updated.
   - Under the Bridge 🌉 (short fiction piece)
 - [Writing (2019-07-29 - 2019-08-05)](https://writing.charliejackson.com/writing/forming-beliefs.html)
   - How to Form Beliefs 🤔
-- [Curious Squid (2019-03-01 - 2019-03-31)](./projects/curious-squid.md#2019-03-01---2018-03-31)
+- [Curious Squid (2019-03-01 - 2019-03-31)](./projects/curious-squid.md#2019-03-01---2019-03-31)
   - Short freelance contract for EventsTag
 - [Writing (2018-11-30 - 2018-11-30)](https://medium.com/lessons-by-charlie-jackson/its-all-your-fault-8bf87a9138fa)
   - It's all your fault
