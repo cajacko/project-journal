@@ -4,13 +4,47 @@ A board game where players start as a normal person and by the end of the game h
 
 ## Next Steps ⏭
 
-- Get more named cards/images
-- Keep playing through the current version
-- Figure out available gadget process, feels clunky and not as exciting as it could be
-- Figure out the threat track, good end values, does the roll system work etc.
-- Experiment with the notes from [2020-03-29 - 2020-04-04](#2020-03-29---2020-04-04)
+- Write enough cards for v0.6.0 to play
+- Decide on different villain actions/orders to test
+- Play test
 
 ## Updates 🔼
+
+### 2020-09-10 - 2020-09-18
+
+Spent some time trying to streamline the upgrade process, both in terms of abilities and gadgets. Ended up creating a little player sheet to help with this.
+
+![Zero to Hero](../assets/zero-to-hero-011.jpg)
+![Zero to Hero](../assets/zero-to-hero-012.jpg)
+![Zero to Hero](../assets/zero-to-hero-013.jpg)
+![Zero to Hero](../assets/zero-to-hero-014.jpg)
+
+The current idea is that upgrade cards have numbers on them so they can be looked up when you upgrade. e.g. Your starting vigilante card would say you could upgrade to card 2, 3, 4 or 5. In the tray that holds these numbered upgrade cards there's a few for each number, which are the same card but with very small differences e.g. probably the upgrade paths are different. To give more variety and flavour to games. Both gadgets and abilities can be upgraded so these cards will all work in the same numbering "lookup" system.
+
+![Zero to Hero](../assets/zero-to-hero-015.jpg)
+
+The original player sheet design had a space in the middle for holding "experience dice" to keep track of how much experience you have. This next design ditches that in favour of "tracking" or "count" cards. 2 hex cards that have numbered sides (both on front and back) and be used to keep count by rotating. Similar to how you rotate crimes. Keeping this same rotating mechanic reduces the amount of unique systems. But does restrict each card to only count from 0-11 (accounting for 12 sides when flipped). The 2 spaces in this image are for keeping track of experience (which you can spend on upgrading abilities) and resources (which you can spend to upgrade gadgets). Balancing these 2 aspects results in nice symmetry on the player sheet and makes the upgrade process for both abilities and gadgets the same.
+
+Also reduced the number of abilities and gadgets you can have from 6 abilities to 4 and 4 gadgets to 2. Otherwise there's so much going on and it would take ages to upgrade everything. Also it encourages players to generalise rather than specialise. ANd I think specialising would lead to more entertaining game play.
+
+![Zero to Hero](../assets/zero-to-hero-016.jpg)
+
+This final image shows all the unique component to the game (with only 1 player sheet though)
+
+![Zero to Hero](../assets/zero-to-hero-017.jpg)
+
+Also did a lots of work in the v0.6.0 version of the rules. Here's some highlights:
+
+- Added defense value as a base level stat. So now have:
+  - Speed - Spaces per movement
+  - Strength - Bonus thwart dice
+  - Defense - Reduces number of action cards you lose when a crime completes on your space of a villain attacks
+  - Stamina/Intelligence - Hand size
+- Refined how searching works
+- Locations can have custom triggers and effects - Not just rewards
+- When crimes complete or a villain attacks players on that space lose action cards
+- Trade costs are written on gadget cards
+- Action cards may have defense values on them
 
 ### 2020-04-15 - 2020-05-03
 

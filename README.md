@@ -14,7 +14,7 @@ The date after the project title is when that project was last updated.
 - [Writing](https://writing.charliejackson.com) 📚 (Apr 2020)
 - [Reading](./projects/reading.md) 📖 (Sep 2020)
 - Board Games 🎲
-  - [Zero to Hero](projects/zero-to-hero.md) 🦸‍♂️(May 2020)
+  - [Zero to Hero](projects/zero-to-hero.md) 🦸‍♂️(Sep 2020)
   - [Escape the Mad House](projects/escape-the-mad-house.md) 🏚 (Mar 2020)
   - [Hidden Maze](projects/hidden-maze.md) 🔀 (Mar 2020)
   - [Mini Strategy](projects/mini-strategy.md) 🃏 (Mar 2020)
@@ -116,6 +116,8 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [Zero to Hero (2020-09-10 - 2020-09-18)](./projects/zero-to-hero.md#2020-09-10---2020-09-18)
+  - Made a funky player sheet and worked on the new rules quite a lot
 - [Reading (2020-08-01 - 2020-09-06)](./projects/reading.md#hell-yeah-or-no---derek-sivers-2020---reading-september-2020)
   - Hell Yeah or No - Derek Siver
 - [WalkUp (2020-06-21 - 2020-09-06)](./projects/walkup.md#2020-06-21---2020-09-06)
