@@ -10,9 +10,10 @@ work I did on a project.
 
 The date after the project title is when that project was last updated.
 
-- [Comedy](projects/comedy.md) 🎭 (May 2020)
-- [Writing](https://writing.charliejackson.com) 📚 (Apr 2020)
-- [Reading](./projects/reading.md) 📖 (Sep 2020)
+- [Comedy](projects/comedy.md) 🎭 (Sep 2020)
+- [Writing](https://writing.charliejackson.com) 📚 (Sep 2020)
+- [Reading, Watching, Listening](./projects/reading.md) 📖👀👂 (Sep 2020)
+- [Thoughts and Ramblings](./projects/thoughts.md) 🧠 (Sep 2020)
 - Board Games 🎲
   - [Zero to Hero](projects/zero-to-hero.md) 🦸‍♂️(Sep 2020)
   - [Escape the Mad House](projects/escape-the-mad-house.md) 🏚 (Mar 2020)
@@ -116,9 +117,21 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [Zero to Hero (2020-09-19 - 2020-09-26)](./projects/zero-to-hero.md#2020-09-19---2020-09-26)
+  - Building a new paper version from the latest rules
+- [Thoughts and Ramblings (2020-09-21 - 2020-09-26)](./projects/thoughts.md#2020-09-21---2020-09-26)
+  - Artificial intelligence, decision making and more
+- [Writing (2020-09-19 - 2020-09-26)](https://writing.charliejackson.com/writing/dying.html)
+  - Started a new post on anxiety
+- [Writing (2020-09-19 - 2020-09-26)](https://writing.charliejackson.com/writing/unusual-opinons.html)
+  - Finished a draft of Unusual Opinions I have
+- [Reading, Watching, Listening (2020-09-21 - 2020-09-26)](./projects/reading.md#hell-yeah-or-no---derek-sivers-2020---reading-september-2020)
+  - Crystal Society - Max Harms
+- [Comedy (2020-09-21 - 2020-09-26)](./projects/comedy.md#2020-09-21---2020-09-26)
+  - Started the first Hoopla in person improv comedy course since COVID-19. Feels good to be back
 - [Zero to Hero (2020-09-10 - 2020-09-18)](./projects/zero-to-hero.md#2020-09-10---2020-09-18)
   - Made a funky player sheet and worked on the new rules quite a lot
-- [Reading (2020-08-01 - 2020-09-06)](./projects/reading.md#hell-yeah-or-no---derek-sivers-2020---reading-september-2020)
+- [Reading, Watching, Listening (2020-08-01 - 2020-09-06)](./projects/reading.md#hell-yeah-or-no---derek-sivers-2020---reading-september-2020)
   - Hell Yeah or No - Derek Siver
 - [WalkUp (2020-06-21 - 2020-09-06)](./projects/walkup.md#2020-06-21---2020-09-06)
   - Scaling issues, performance, priorities and interns

@@ -10,6 +10,10 @@ A board game where players start as a normal person and by the end of the game h
 
 ## Updates 🔼
 
+### 2020-09-19 - 2020-09-26
+
+Started building out a basic paper version from the latest rules. Writing cards as I go so I can iterate more quickly and play test more. Need to be careful not to let number of cards or complexity get to out of hand. Can easily see how I'll make too many.
+
 ### 2020-09-10 - 2020-09-18
 
 Spent some time trying to streamline the upgrade process, both in terms of abilities and gadgets. Ended up creating a little player sheet to help with this.

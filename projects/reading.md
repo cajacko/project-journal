@@ -1,9 +1,10 @@
-# Reading 📖
+# Reading, Watching, Listening 📖👀👂
 
 Sometimes I like to read, here's my notes on what I've read (or watched if it feels appropriate to go here) since the summer of 2020
 
-- [Reading 📖](#reading-)
+- [Reading, Watching, Listening 📖👀👂](#reading-watching-listening-)
   - [Latest 🔼](#latest-)
+    - [Crystal Society - Max Harms (2016) - Reading September 2020](#crystal-society---max-harms-2016---reading-september-2020)
     - [Hell Yeah or No - Derek Sivers (2020) - Reading September 2020](#hell-yeah-or-no---derek-sivers-2020---reading-september-2020)
 
 <!-- ## Reading List ⏭
@@ -13,6 +14,10 @@ Things I'd like to read next
 - -->
 
 ## Latest 🔼
+
+### Crystal Society - Max Harms (2016) - Reading September 2020
+
+A fantastic original rationalists fiction piece about the birth of the worlds first artificial intelligence. Written from the point of view of that artificial intelligence. It's the first part of a trilogy and is very thought provoking around ideas of AI alignment, setting goals and what are emotions.
 
 ### Hell Yeah or No - Derek Sivers (2020) - Reading September 2020
 

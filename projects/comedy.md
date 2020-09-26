@@ -6,15 +6,16 @@ In Jan 2013 I started getting into improvised comedy 😂🎭, and since have be
   - [Current Comedy Projects](#current-comedy-projects)
     - [Stand Up](#stand-up)
     - [Clowning](#clowning)
-    - [Velociraptor](#velociraptor)
     - [NoScript and Smoosh](#noscript-and-smoosh)
   - [Previous Comedy Projects](#previous-comedy-projects)
+    - [Velociraptor](#velociraptor)
     - [Clusterfox](#clusterfox)
     - [And Now](#and-now)
     - [SuperCouth](#supercouth)
   - [Show History](#show-history)
   - [Courses](#courses)
   - [Updates](#updates)
+  - [2020-09-21 - 2020-09-26](#2020-09-21---2020-09-26)
     - [2020-04-15 - 2020-05-03](#2020-04-15---2020-05-03)
     - [2020-04-05 - 2020-04-14](#2020-04-05---2020-04-14)
     - [2020-03-21 - 2020-03-28](#2020-03-21---2020-03-28)
@@ -24,6 +25,8 @@ In Jan 2013 I started getting into improvised comedy 😂🎭, and since have be
     - [2020-02-10 - 2020-02-17](#2020-02-10---2020-02-17)
 
 ## Current Comedy Projects
+
+There's been a bit of a pause since COVID-19 so will see how these projects go as I get back into the swing of things.
 
 ### Stand Up
 
@@ -35,15 +38,15 @@ I started getting into stand-up from the summer of 2019 and since have been doin
 
 Since 2019 I've been doing a reasonable amount of clowning courses and a few solo clown shows. At the moment the idea is to merge the clowning into my stand-up work. But could end up doing more specific clown stuff as well.
 
-### Velociraptor
-
-A musical improvised comedy group. We do scenes that end in improvised songs! Started in 2019 we've done multiple shows all inspired from what you do on a normal Sunday.
-
 ### NoScript and Smoosh
 
 NoScript is the programming (Specifically React.JS and JavaScript) based improv comedy house team for Smoosh (A comedy night by programmers for programmers). We started with the first Smoosh event in 2018 and have played every Smoosh, including our own nights, private events, various conferences and overseas (React Berlin, React Finland).
 
 ## Previous Comedy Projects
+
+### Velociraptor
+
+A musical improvised comedy group. We do scenes that end in improvised songs! Started in 2019 we've done multiple shows all inspired from what you do on a normal Sunday. Ended up falling apart during COVID-19
 
 ### Clusterfox
 
@@ -93,6 +96,8 @@ And about a dozen or so older shows I can't remember.
 
 ## Courses
 
+- Hoopla - Get Back into Improv (2020)
+- Pause during COVID-19 😢
 - Hoopla - Perfoming Improv Online (2020)
 - Nick Hall - Online Stand-Up Workshop (2020)
 - The Nursery - Online Improv Workshop (2020)
@@ -121,6 +126,10 @@ And about a dozen or so older shows I can't remember.
 - Spontaneity Shop - Improv Comedy Course Level 1 (2015)
 
 ## Updates
+
+## 2020-09-21 - 2020-09-26
+
+Started the first in person Hoopla Improv comedy course since COVID-19 lockdown. Feels so good to be back. Worked on slowing down scenes, taking time and object work. All stuff that made social distancing easier as well.
 
 ### 2020-04-15 - 2020-05-03
 
