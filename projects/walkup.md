@@ -4,6 +4,13 @@ WalkUp (WalkIn when I started) is a London based startup aiming to enable you to
 
 ## Updates 🔼
 
+<!-- Update on bookings once out -->
+
+### 2020-09-07 - 2020-10-03
+
+Thinks continue to go well, been focussing on mobile app performance improvements. Which it desperately needs. But it's a slow process with so few developers. Got interrupted in this work to build an exciting new feature, but we have a very tight deadline so it's all systems a go. Will update once this feature is live, should be in the next 2 weeks. Been furiously hiring contractors and still trying to find permanent people. It's a long game, but happy with the contractors we now have. Can be very hit or miss. Biggest learning is to keep pushing on pessimistic estimates and not to box yourself into a hole of committing to work that can't reasonably be done. Think I handled this well and made my points obvious and clear, but think the rest of the team need the point to be hammered home more. It leads to the classic dynamic of having a lead dev just saying no at some point. You can do what you can to reduce scope but there gets to a point that some things just can't be done in some
+timelines. Although it's a harder question than that, because technically you could sacrifice quality, performance and reliability to do it in those times. But my stance for us at this stage is that that path is more dangerous.
+
 ### 2020-06-21 - 2020-09-06
 
 During this time we've seen incredible growth, literally exponential month on month. Very exciting but we can't grow the tech or team quickly enough, so we're trying to hire like crazy and focus on performance and reliability. There's been interesting challenges around deciding on priorities when there's so many exciting and essential things to do but we can only do about 5% of it.

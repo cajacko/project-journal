@@ -4,6 +4,32 @@ This project is more just a place for me to jot down the ideas and thoughts that
 
 ## Updates 🔼
 
+### 2020-09-27 - 2020-10-03
+
+Unfair/unbalanced games (mainly board games) make me sad, especially when care so much for the Intellectual Property (Batman: Gotham City Chronicles in this case). The solution is to feel free to change the rules and keep adjusting into you're happy. Works well with enjoying game design as well.
+
+Productive mornings feel so good. Good to identify your favourite times and situations for doing things. And make those happen.
+
+It's easy to start looking down on people who don't think/try to think rationally. Don't be a dick. Maybe a nice balance is a mix of rationality, stoicism and mindfulness.
+
+The board game community is great and has so many community made resources and ideas. Look on all the tabs on the BoardGameGeek page for a popular game.
+
+Treat all games like you designed them yourself and iterate on them.
+
+How do you surround yourself with the kind of people you want?
+
+Don't feel bad about what you enjoy. Used to love working on projects but they never amount to anything. And it kept making me think badly about not finishing projects. Then I realised it's the start of projects I love, and there's nothing wrong with admitting that. Just needed a way to see the work I had done and feel good about it. Even when I stop without a product. This resulted in my keeping my project journal.
+
+I shouldn't do personal coding projects when I code at work as well. Getting into code holes outside of work is bad for me.
+
+Some philosophy questions just seem a bit pointless. E.g. how can a word have meaning? Not sure what I would change in my life by thinking a lot about that question.
+
+Keep pushing on more pessimistic estimates. The planning fallacy is real.
+
+Get rid of all alcohol in the house.
+
+Just because something seems sad or depressing on the outside doesn't make it untrue. And doesn't mean you can't enjoy yourself.
+
 ### 2020-09-21 - 2020-09-26
 
 When you know something works for you, make use of it. For example I've been trying to get back into writing since COVID-19 and an intense new job sent me out of whack with my projects. I know that writing 10 minutes everyday worked for me beforehand. So I should just push myself back into that pattern. Rather than trying a new pattern e.g. doing longer stints of writing once or twice a week.

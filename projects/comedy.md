@@ -15,7 +15,8 @@ In Jan 2013 I started getting into improvised comedy 😂🎭, and since have be
   - [Show History](#show-history)
   - [Courses](#courses)
   - [Updates](#updates)
-  - [2020-09-21 - 2020-09-26](#2020-09-21---2020-09-26)
+    - [2020-09-27 - 2020-10-03](#2020-09-27---2020-10-03)
+    - [2020-09-21 - 2020-09-26](#2020-09-21---2020-09-26)
     - [2020-04-15 - 2020-05-03](#2020-04-15---2020-05-03)
     - [2020-04-05 - 2020-04-14](#2020-04-05---2020-04-14)
     - [2020-03-21 - 2020-03-28](#2020-03-21---2020-03-28)
@@ -127,7 +128,11 @@ And about a dozen or so older shows I can't remember.
 
 ## Updates
 
-## 2020-09-21 - 2020-09-26
+### 2020-09-27 - 2020-10-03
+
+Continued the in person Hoopla Improv comedy course. Had a session on emotions within scenes. One of the most interesting and fun bits was a group scene around matching the emerging emotions. Led to a fun archery scene, where we were all aiming at one person and each time that person changed the emotion we all had changed. Most amusing.
+
+### 2020-09-21 - 2020-09-26
 
 Started the first in person Hoopla Improv comedy course since COVID-19 lockdown. Feels so good to be back. Worked on slowing down scenes, taking time and object work. All stuff that made social distancing easier as well.
 
