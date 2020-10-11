@@ -6,6 +6,10 @@ WalkUp (WalkIn when I started) is a London based startup aiming to enable you to
 
 <!-- Update on bookings once out -->
 
+### 2020-10-04 - 2020-10-11
+
+Very busy week working on an important new feature. Getting it ready for internal testing, idea is to go live next week so can tell you a bit more about it then. Biggest learning from this week is similar to last week, in that I don't think people should be encouraged to work late for new feature development. Not in a start-up at this stage. If things are on fire and going wrong then that's allowed as it's an exception that can be damaging. Along with this I've been reminded about how annoying timezone support is. Will be looking at solutions in the coming week to make this easier to manage.
+
 ### 2020-09-07 - 2020-10-03
 
 Thinks continue to go well, been focussing on mobile app performance improvements. Which it desperately needs. But it's a slow process with so few developers. Got interrupted in this work to build an exciting new feature, but we have a very tight deadline so it's all systems a go. Will update once this feature is live, should be in the next 2 weeks. Been furiously hiring contractors and still trying to find permanent people. It's a long game, but happy with the contractors we now have. Can be very hit or miss. Biggest learning is to keep pushing on pessimistic estimates and not to box yourself into a hole of committing to work that can't reasonably be done. Think I handled this well and made my points obvious and clear, but think the rest of the team need the point to be hammered home more. It leads to the classic dynamic of having a lead dev just saying no at some point. You can do what you can to reduce scope but there gets to a point that some things just can't be done in some

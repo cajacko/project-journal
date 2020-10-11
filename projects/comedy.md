@@ -15,6 +15,7 @@ In Jan 2013 I started getting into improvised comedy 😂🎭, and since have be
   - [Show History](#show-history)
   - [Courses](#courses)
   - [Updates](#updates)
+    - [2020-10-04 - 2020-10-11](#2020-10-04---2020-10-11)
     - [2020-09-27 - 2020-10-03](#2020-09-27---2020-10-03)
     - [2020-09-21 - 2020-09-26](#2020-09-21---2020-09-26)
     - [2020-04-15 - 2020-05-03](#2020-04-15---2020-05-03)
@@ -127,6 +128,10 @@ And about a dozen or so older shows I can't remember.
 - Spontaneity Shop - Improv Comedy Course Level 1 (2015)
 
 ## Updates
+
+### 2020-10-04 - 2020-10-11
+
+Had a great session on character on a Hoopla Improv comedy course. HAd some nice clowning warmups, which I forgot about how awkward but freeing it is. It's annoying that my leg is still bad as I'm normally very physical and energetic in character work. So had to be a bit more subdued, but good experience.
 
 ### 2020-09-27 - 2020-10-03
 

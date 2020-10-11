@@ -4,6 +4,26 @@ This project is more just a place for me to jot down the ideas and thoughts that
 
 ## Updates 🔼
 
+### 2020-10-04 - 2020-10-11
+
+Been reading a book on philosophy and it's interesting hearing about a seemingly intelligent person specifically pointing out the flaws in their ideas and saying they can't believe something because it makes them uncomfortable. Just because something is uncomfortable to believe doesn't mean it isn't true.
+
+Remember, nothing really matters. No reason to get stressed by anything and you can help reduce the potential for stress if you keep making sensible decisions in communication.
+
+Dealing with timezones in programming is such a bitch. Why can't we all use UTC around the world?
+
+I don't have a problem with companies having all our data, the issue is recommendation engines and positive feedback loops increasing polarization around the world. Unfortunately an easy way to stop that problem is by restricting the amount of data companies have on us. IT comes with downsides but the downsides of increased polarization are bigger. Maybe there's a better solution around regulating recommended information? But that sounds like a much more complex things to define. However as a believer in technology I'd assume that improved machine learning could still cope with building strong recommendation engines even with less data.
+
+The predicted timeline on big negative climate change consequences seems worse that I anticipated. Solutions sound easy but how to enforce: renewable energy, don't eat meat (or much less so don't over fish and can reduce farmland)?
+
+The biggest problems to tackle in my lifetime seem to be:
+
+- Stop people dying
+- Pull the global population up Maslows Hierarchy of needs. Not leaving people behind as you do so
+- Decrease the spread of polarization - Seems like an obvious way to mass civil wars otherwise. Reducing the capacity to work on the other issues
+- Prevent destructive climate change
+- Build colonies off of Earth
+
 ### 2020-09-27 - 2020-10-03
 
 Unfair/unbalanced games (mainly board games) make me sad, especially when care so much for the Intellectual Property (Batman: Gotham City Chronicles in this case). The solution is to feel free to change the rules and keep adjusting into you're happy. Works well with enjoying game design as well.

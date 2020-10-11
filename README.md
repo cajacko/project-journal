@@ -117,9 +117,19 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [Comedy (2020-10-04 - 2020-10-11)](./projects/comedy.md#2020-10-04---2020-10-11)
+  - Had an improv comedy session on character
+- [WalkUp (2020-10-04 - 2020-10-11)](./projects/walkup.md#2020-10-04---2020-10-11)
+  - Working hard on new features and getting annoyed with timezones.
+- [Reading, Watching, Listening (2020-10-04 - 2020-10-11)](./projects/reading.md#crystal-mentality---max-harms-2017---reading-october-2020)
+  - Crystal Mentality - Max Harms
+- [Reading, Watching, Listening (2020-10-04 - 2020-10-11)](./projects/reading.md#what-does-it-all-mean---thomas-nagel-1987---finished-october-2020)
+  - What Does It All Mean - Thomas Nagel
+- [Thoughts and Ramblings (2020-10-04 - 2020-10-11)](./projects/thoughts.md#2020-10-04---2020-10-11)
+  - Philosophy, data privacy and the environment
 - [WalkUp (2020-09-07 - 2020-10-03)](./projects/walkup.md#2020-09-07---2020-10-03)
   - Hiring, performance, new feature development and the planning fallacy.
-- [Reading, Watching, Listening (2020-09-27 - 2020-10-03)](./projects/reading.md#what-does-it-all-mean---thomas-nagel-1987---reading-october-2020)
+- [Reading, Watching, Listening (2020-09-27 - 2020-10-03)](./projects/reading.md#what-does-it-all-mean---thomas-nagel-1987---finished-october-2020)
   - What Does It All Mean - Thomas Nagel
 - [Thoughts and Ramblings (2020-09-27 - 2020-10-03)](./projects/thoughts.md#2020-09-27---2020-10-03)
   - Thoughts this week on rebalancing other peoples board games and philosophy
