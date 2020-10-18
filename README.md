@@ -10,12 +10,12 @@ work I did on a project.
 
 The date after the project title is when that project was last updated.
 
-- [Comedy](projects/comedy.md) 🎭 (Sep 2020)
-- [Writing](https://writing.charliejackson.com) 📚 (Sep 2020)
-- [Reading, Watching, Listening](./projects/reading.md) 📖👀👂 (Sep 2020)
-- [Thoughts and Ramblings](./projects/thoughts.md) 🧠 (Sep 2020)
+- [Comedy](projects/comedy.md) 🎭 (Oct 2020)
+- [Writing](https://writing.charliejackson.com) 📚 (Oct 2020)
+- [Reading, Watching, Listening](./projects/reading.md) 📖👀👂 (Oct 2020)
+- [Thoughts and Ramblings](./projects/thoughts.md) 🧠 (Oct 2020)
 - Board Games 🎲
-  - [Zero to Hero](projects/zero-to-hero.md) 🦸‍♂️(Sep 2020)
+  - [Zero to Hero](projects/zero-to-hero.md) 🦸‍♂️(Oct 2020)
   - [Escape the Mad House](projects/escape-the-mad-house.md) 🏚 (Mar 2020)
   - [Hidden Maze](projects/hidden-maze.md) 🔀 (Mar 2020)
   - [Mini Strategy](projects/mini-strategy.md) 🃏 (Mar 2020)
@@ -117,6 +117,12 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [Thoughts and Ramblings (2020-10-12 - 2020-10-18)](./projects/thoughts.md#2020-10-12---2020-10-18)
+  - Chilling, board games and discipline
+- [Zero to Hero (2020-09-26 - 2020-10-18)](./projects/zero-to-hero.md#2020-09-26---2020-10-18)
+  - Had a development session with Rob that went really well
+- [Reading, Watching, Listening (2020-10-11 - 2020-10-18)](./projects/reading.md#crystal-mentality---max-harms-2017---reading-october-2020)
+  - Crystal Mentality - Max Harms
 - [Comedy (2020-10-04 - 2020-10-11)](./projects/comedy.md#2020-10-04---2020-10-11)
   - Had an improv comedy session on character
 - [WalkUp (2020-10-04 - 2020-10-11)](./projects/walkup.md#2020-10-04---2020-10-11)

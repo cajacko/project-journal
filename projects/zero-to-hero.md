@@ -4,11 +4,38 @@ A board game where players start as a normal person and by the end of the game h
 
 ## Next Steps ⏭
 
-- Write enough cards for v0.6.0 to play
-- Decide on different villain actions/orders to test
-- Play test
+- Do another development session with Rob and then write up the new changes
+- Start making the changes to the cards (especially action cards as they've changed alot)
+- Get ready for the next version that can be play tested properly
 
 ## Updates 🔼
+
+### 2020-09-26 - 2020-10-18
+
+Had a really good play test/development session with another programmer friend of mine. So we went very deep into mechanics and balance. Highlights include:
+
+- Ensuring villains are more unique and there's loads of them. Seeing as the game is about crafting unique heroes it would kind of be a let down if there wasn't some kind of effort in kind for the villains
+- Having additional artwork cards for each character so as you upgrade you can visually see them getting stronger. More as an immersive thing than mechanical. Although could have different effects?
+- It would be good to remove the meeple space if possible. The board would look nicer, but then would we be hiding the artwork too much?
+- Allow some crimes to complete fast. Maybe they have an arrow on some sides that forces you to rotate one more time if it lands on that. >>
+- Some villain effects should really shift up the board. Not necessarily making it harder, just ruining your planning and making you rethink
+- We needed villains to come up faster
+- The beginning of the game was hard, the end was easy so need to balance accordingly
+- One way to reduce number of action cards/dice (which will improve UX) is to change the values on the thwart dice (3 success, 2 near miss, 1 blank)
+- Some locations could be harder to move though? e.g. takes 2 movement actions
+- Villain crime cards just tell you to draw a villain from the villain deck (so we can have more detail), then that villain crime card can act as the hit counter
+- Rebalanced the number of crimes to spawn and level -> number of crimes is based on the value on the victory track (as before) but the starting level is the same as the number of players. So with more players crimes complete faster? May need to reverse this? More players should mean more crimes right?
+- You should be able to always trade in a gadget for resources and then buy a new starting level one. We don't want to limit people from building the current of abilities they want
+- We gained experience and resources pretty quickly. The hex counters may not work for that. Unless we half the values you get or just have a different way of counting e.g. like gold, silver, bronze tokens
+- Some gadgets could retrospectively let you add dice
+- Make the crimes slightly easier but add more villains and get crimes to complete faster
+- Would it be thematic for defeated villains to return later in the game as stronger versions of themselves? Maybe at the start of the game you draw 5 villains from the villain deck (don't look at them). You use this deck, when a villain is defeated you get their "harder come back" card and shuffle that into the villain deck. So you'll always have the same 5 villains but they keep getting harder.
+- Maybe action card set bonuses double the number of dice in an attempt?
+- Penalty for moving through a space with a villain? Maybe you just can't? Or you have to stop on that space and use another move card to get off.
+- Abilities are additive/linear, gadgets are multipliers
+- One way to solve the number of players issue could be to always have 6 vigilantes on the board. Players control multiple. But you only ever have 1 normal vigilante, others are more like sidekicks, they have simpler rules and kinda just help you out instead of being full customisable vigilantes. This is similar to a mechanic in the new Aliens game. Imagine having a "side kick" deck and at the start of the players turn you draw out x cards, which can be the "simple" actions the sidekicks can do: move, add x dice to any thwart attempt this turn etc
+
+![Zero to Hero](../assets/zero-to-hero-018.jpg)
 
 ### 2020-09-19 - 2020-09-26
 

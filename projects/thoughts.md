@@ -4,6 +4,14 @@ This project is more just a place for me to jot down the ideas and thoughts that
 
 ## Updates 🔼
 
+### 2020-10-12 - 2020-10-18
+
+Bit of a more relaxing week, less thinking more playing games and chilling. Had a lot of interesting thoughts around board game design from doing a development session with Rob on [Zero to Hero](./zero-to-hero.md#2020-09-26---2020-10-18)
+
+I think my background in product design -> UX -> developer leads quite nicely for board game development.
+
+It's important to be very disciplined about the little things you want to do every day. Otherwise taking 1 day off makes it much easier to have the next day off etc. It's kinda obvious yet we still so it. So it can be useful to remember the power of this. As it's easy to recognise something but also easy to ignore it.
+
 ### 2020-10-04 - 2020-10-11
 
 Been reading a book on philosophy and it's interesting hearing about a seemingly intelligent person specifically pointing out the flaws in their ideas and saying they can't believe something because it makes them uncomfortable. Just because something is uncomfortable to believe doesn't mean it isn't true.
