@@ -2,9 +2,29 @@
 
 WalkUp (WalkIn when I started) is a London based startup aiming to enable you to be able to get a seat at any restaurant at any time. With their initial product being a digital queue management solution for restaurants. I joined the team at the end of March 2020 a few weeks into the Coronavirus lockdown (fun way to start a new job 🥳).
 
+<!--
+ ## Prompts
+
+ - Strategy
+ - System Architecture
+ - Line Management
+
+ -->
+
 ## Updates 🔼
 
 <!-- Update on bookings once out -->
+
+### 2020-10-11 - 2020-10-25
+
+A mix week of writing specifications for the next version of our bookings platform (which we've already started building, whoops) and getting really into some base level component coding (table component). A big part of this week has been around getting fustrated with how new features and improvements are presented to us, specified and then worked on. I guess it's the problem of not having a dedicated designer/UX person, customer development specialist and project manager. Although the solution can't just be to hire as resource will always be a problem. So it's time to come up with a cunning solution given what we have. I think this means define some very rigid procedures for customer development, UX development and design, writing acceptance criteria, accepting work as a dev team and relying feedback on progress. So something to think about, I want to figure out a proposal for how we manage all this.
+
+When you don't have much resource and growing fast maybe one of the best things you can do for effectiveness is documentation. If you keep getting people in, contractors or trying to hire people, then documentation can save a lot of time and context switching.
+
+Also had a great convo with the directors about priorities and how to balance work on bookings versus improving the UX and performance of our core products (especially the mobile app). If we try and do a mixture of both does that mean we do a poor job at both. Although less focussed work needs to go into improving the current product than would need to go into bookings. The work on bookings is much more uncertain and a bigger job. So we should spend the time to get that right. And offer something that feels competitive rather than just less features than existing platforms. If our focus is usability, flexibility and speed. Over full bookings and table plan modelling. That could do it. Seeing as we want to target people who are max 50% bookings? As we don't see a future in higher than that. So let's build something very specific to that future. We need to make sure that that's how the features appear to the vendors. And when we market it. It's not a light version of bookings it's the
+optimal bookings solution for the vendors focussing on people who want a table at any time, the same way you'd use Uber, which do offer a light version of book in advance.
+
+It's really easy to make shit stuff in a shared package that will just break over time. It's worth going back over and really thinking through the decisions.
 
 ### 2020-10-04 - 2020-10-11
 

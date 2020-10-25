@@ -6,6 +6,7 @@ Sometimes I like to read, here's my notes on what I've read (or watched if it fe
   - [Current](#current)
     - [Crystal Mentality - Max Harms (2017) - Reading October 2020](#crystal-mentality---max-harms-2017---reading-october-2020)
   - [Past](#past)
+    - [Super Human - Dave Asprey (2019) - Finished October 2020](#super-human---dave-asprey-2019---finished-october-2020)
     - [What Does It All Mean - Thomas Nagel (1987) - Finished October 2020](#what-does-it-all-mean---thomas-nagel-1987---finished-october-2020)
     - [Crystal Society - Max Harms (2016) - Finished September 2020](#crystal-society---max-harms-2016---finished-september-2020)
     - [Hell Yeah or No - Derek Sivers (2020) - Finished September 2020](#hell-yeah-or-no---derek-sivers-2020---finished-september-2020)
@@ -23,6 +24,10 @@ Things I'd like to read next
 The sequel to Crystal Society. Following the first concious artificial intelligence as it tries to start a new life on Mars.
 
 ## Past
+
+### Super Human - Dave Asprey (2019) - Finished October 2020
+
+Read the Blink for this. Not too interesting, reinforced the desire to look into fasting. And might setup my lights to dim in the evening but not much else to report of note.
 
 ### What Does It All Mean - Thomas Nagel (1987) - Finished October 2020
 

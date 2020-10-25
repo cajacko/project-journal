@@ -23,6 +23,7 @@ The date after the project title is when that project was last updated.
   - [Random Event](projects/random-event.md) 🧙‍♂️ (Nov 2019)
   - [Tower Defense](projects/tower-defense.md) 🗼 (Sep 2019)
 - Programming Projects 💻
+  - [Personal Server](./projects/personal-server.md) 👩‍💻 (Oct 2020)
   - [Improv Stories](./projects/improv-stories.md) 📖 (Jun 2020)
   - [Online Performing Tools](./projects/online-performing-tools.md) 🕴 (May 2020)
   - [Board Game Builder](projects/board-game-builder.md) 🃏 (Mar 2020)
@@ -117,6 +118,20 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [Personal Server (2020-10-23 - 2020-10-25)](./projects/personal-server.md#2020-10-23---2020-10-25)
+  - Getting it setup and building a feed for my inbox
+- [WalkUp (2020-10-11 - 2020-10-25)](./projects/walkup.md#2020-10-11---2020-10-25)
+  - Figuring out process
+- [Thoughts and Ramblings (2020-10-19 - 2020-10-25)](./projects/thoughts.md#2020-10-19---2020-10-25)
+  - Building routines and sticking to them
+- [Reading, Watching, Listening (2020-10-25 - 2020-10-25)](./projects/reading.md#super-human---dave-asprey-2019---finished-october-2020)
+  - Super Human - Dave Asprey
+- [Comedy (2020-10-12 - 2020-10-25)](./projects/comedy.md#2020-10-12---2020-10-25)
+  - Had an improv comedy session on linking scenes and specificity
+- [Reading, Watching, Listening (2020-10-19 - 2020-10-25)](./projects/reading.md#crystal-mentality---max-harms-2017---reading-october-2020)
+  - Crystal Mentality - Max Harms
+- [Writing (2020-10-04 - 2020-10-25)](https://writing.charliejackson.com/writing/dying.html)
+  - Finished the anxiety post
 - [Thoughts and Ramblings (2020-10-12 - 2020-10-18)](./projects/thoughts.md#2020-10-12---2020-10-18)
   - Chilling, board games and discipline
 - [Zero to Hero (2020-09-26 - 2020-10-18)](./projects/zero-to-hero.md#2020-09-26---2020-10-18)

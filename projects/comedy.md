@@ -15,6 +15,7 @@ In Jan 2013 I started getting into improvised comedy 😂🎭, and since have be
   - [Show History](#show-history)
   - [Courses](#courses)
   - [Updates](#updates)
+    - [2020-10-12 - 2020-10-25](#2020-10-12---2020-10-25)
     - [2020-10-04 - 2020-10-11](#2020-10-04---2020-10-11)
     - [2020-09-27 - 2020-10-03](#2020-09-27---2020-10-03)
     - [2020-09-21 - 2020-09-26](#2020-09-21---2020-09-26)
@@ -128,6 +129,10 @@ And about a dozen or so older shows I can't remember.
 - Spontaneity Shop - Improv Comedy Course Level 1 (2015)
 
 ## Updates
+
+### 2020-10-12 - 2020-10-25
+
+Had an improve workshop on linking scenes and specificity. Super fun, got to do some proper scenes with editing which I haven't done since lockdown and it feels good. I encouraged some quite fast editing at first which I always find super fun with the right team. Although it was quite intense so we calmed down in the second run. Made me think about building a team or doing a format where the format is the timing of scenes. E.g. long, short, short, long, long, super short, short etc. Making it all about interesting pacing, managing the excitement and slow burn scenes.
 
 ### 2020-10-04 - 2020-10-11
 

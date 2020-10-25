@@ -4,6 +4,26 @@ This project is more just a place for me to jot down the ideas and thoughts that
 
 ## Updates 🔼
 
+### 2020-10-19 - 2020-10-25
+
+I came to think more specifically about how I don't think about a lot of important topics until I'm debating them with someone. I use the conversation as a way to explore ideas. I think a lot of the ideas I have were in my subconcious and I may have been passively thinking about them without realising. But it led me to the conclusion that I should try and figure out a way to more directly force myself to confront and think about some issues.
+
+Drinking too much seems like the keystone habit I need to break, where all the other things I'd like to do would become easier and thus make drinking less easier in response. Positive feedback loop yo.
+
+Asking other people how they're doing may not directly affect my mood, but the changes in their behaviour after this may end up affecting me positively.
+
+Code linting is great at helping you learn to code better as you type. Editors like Hemmingway can do the same for writing.
+
+Being hungry makes it easier to give into temptations e.g. drinking. Manage hunger to help.
+
+Thinking very carefully about your rules and routines whilst making sure you have a very strong why for everything on that list may make it much easier to stick to. Especially if the progress is presented in a super easy and satisfying way. In regards to drinking and morning routine (meditation, yoga, exercise, admin and creative work). You need to think realistically about edge case scenarios e.g. exceptions, woke up late, hangover etc.
+
+Should try microdosing properly.
+
+Always assume people have forgotten plans. And remind them if it's important to you.
+
+If you have a doubt about something just say it and look silly rather than keeping it to yourself.
+
 ### 2020-10-12 - 2020-10-18
 
 Bit of a more relaxing week, less thinking more playing games and chilling. Had a lot of interesting thoughts around board game design from doing a development session with Rob on [Zero to Hero](./zero-to-hero.md#2020-09-26---2020-10-18)
