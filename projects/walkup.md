@@ -15,6 +15,34 @@ WalkUp (WalkIn when I started) is a London based startup aiming to enable you to
 
 <!-- Update on bookings once out -->
 
+### 2020-10-26 - 2020-11-06
+
+The last 2 weeks have been a big exercise in managing contractors and seeing their capabilities. I gave them some much more complex tasks to see what would happen, one did really well the other did not. So I had to step in to cover the lost time. Was an interesting experiment, probably something that is worth doing to judge people's capabilities but I should find a quicker and less impactful way of doing this. Probably by reducing the size of the task but keeping the complexity. Most of the issues with this come down with our lack of details when specifying tasks. Which is a tricky balance when the team is so small and there's no dedicated project manager.
+
+I've been thinking about how to improve our product quality and development speed as well. Most of the ideas are around how to setup processes to ensure we are increasing the amount of testing we are doing. Things like:
+
+- Scripts that fail the build of test coverage has not increased
+- Update my chrome extension to help encourage me to actually use the checklist on PR. Or implement for everyone.
+- Implement a policy that all bug fixes must have tests
+- Make it super easy to add test
+- Make it super easy to see the results of all tests (in CI, maybe for vscode as well?)
+- Get the end to end tests running on CI
+- Encourage devs to be working inside cypress
+- Spec tasks in such a way that it can be very easy to write the end to end tests
+
+I always want to increase the priority of any tasks that reduce or remove time for devs e.g.
+
+- All requests that could be done by non devs by adding something to the admin panel
+- Reduce the amount of time managing PR's e.g. auto merge develop if possible
+- Reduce the amount of time the CI takes
+- Improve the dev start process
+
+I also want to find some way of enforcing a policy of: Every question that gets asked that could be documented should be. And make the documentation super easy and sexy to edit. Maybe ask Jani about best practices.
+
+Going into the office was really fun. Lovely banter. Lovely people. Definitely need digital representations of post it note stuff we were doing. Having a digital draw on screen would be awesome. Can put post it notes on there as well. Should encourage more formal processes for some things like documenting user problems and feature ideas.
+
+Got to be more direct with goals, expectations and contractors. Split the tasks down as small as possible, do not underestimate the benefit of this.
+
 ### 2020-10-11 - 2020-10-25
 
 A mix week of writing specifications for the next version of our bookings platform (which we've already started building, whoops) and getting really into some base level component coding (table component). A big part of this week has been around getting fustrated with how new features and improvements are presented to us, specified and then worked on. I guess it's the problem of not having a dedicated designer/UX person, customer development specialist and project manager. Although the solution can't just be to hire as resource will always be a problem. So it's time to come up with a cunning solution given what we have. I think this means define some very rigid procedures for customer development, UX development and design, writing acceptance criteria, accepting work as a dev team and relying feedback on progress. So something to think about, I want to figure out a proposal for how we manage all this.

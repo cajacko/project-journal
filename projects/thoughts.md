@@ -4,6 +4,48 @@ This project is more just a place for me to jot down the ideas and thoughts that
 
 ## Updates 🔼
 
+### 2020-10-26 - 2020-11-06
+
+Turns out its quite nice to chat with friends on the phone. Don't normally do that, but is surprisingly fun.
+
+Working on the user experience of your habit forming can help improve doing it. Figuring out what is easy, looks good and encourages good behaviour. I guess most habit forming is about UX, but I've never heard of thought about it so directly before.
+
+The Bayesian Conspiracy podcast is great. I have been stuck on a "meh" book for a while, so switching tacks and trying out this was good. Made me think that I should trail things more often to find the best.
+
+Started a new private diary, as an extension to this project on my thoughts. This diary is more on feelings and trying to identify things that I should but don't normally think about. Going well and feels good. I think keeping it private helps to feel like you can write anything in it. Whereas in everything else I write I edit it a bit more even if I don't think it will get read.
+
+You shouldn't feel bad about throwing things away that you don't want. Or that you want but are bad for you e.g. bad foods, alcohol, too much food etc. Health and happiness trump being wasteful.
+
+Been very disciplined on my habits and drinking recently and it feels good. Need to ensure the motivation continues as I can already feel it fading.
+
+Applause lights - the things we say that give no information but are essentially just signalling for applause. Appreciation. Saying ideas to look good rather than any other purpose.
+
+Betting on things you think may happen is a good rationalist practice. Not normal betting. But betting on things like the flat will be clean by Monday, this person will get elected, this business will release this etc. Only for a £1 or something. You'll start realising how overconfident you are.
+
+Obvious but: A clean home is much less stressful home.
+
+Can only see downsides to spicy food except taste. Maybe should try and use discipline to avoid having spicy foods. It's never worth it in the end.
+
+How do you help people who seem to refuse help or think they are above it? Tricky times.
+
+Joined "The Improv Place" a premium social network for improvisers and it feels so nice to be part of the community again.
+
+Having the right goals and motivation makes following them so much easier.
+
+Those Jump bikes by Uber are so convenient!
+
+Should you log your life in a way that makes it easier for AI to train itself on you? Then it may be able to help you think? What would the best kind of content be for it to train on? Writing, video, audio, communications? Images feel a bit limiting but would be interesting to see.
+
+Tried mico dosing LSD, first time since the crazy trip. Outside of the initial scary placebo effect was quite pleasant. Things felt more amusing. Very minor effect, which I guess is the point.
+
+It's important to be able to have privacy options available to you, even though I think you shouldn't use them most of the time.
+
+Hangovers are feeling worse, although I am partying harder I guess.
+
+Assume people are idiots when you have to rely on them. Spoon feed them.
+
+Stop being too British and stand up for what's important. Don't make being polite stop you from getting what you want.
+
 ### 2020-10-19 - 2020-10-25
 
 I came to think more specifically about how I don't think about a lot of important topics until I'm debating them with someone. I use the conversation as a way to explore ideas. I think a lot of the ideas I have were in my subconcious and I may have been passively thinking about them without realising. But it led me to the conclusion that I should try and figure out a way to more directly force myself to confront and think about some issues.

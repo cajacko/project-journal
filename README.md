@@ -10,10 +10,10 @@ work I did on a project.
 
 The date after the project title is when that project was last updated.
 
-- [Comedy](projects/comedy.md) 🎭 (Oct 2020)
-- [Writing](https://writing.charliejackson.com) 📚 (Oct 2020)
-- [Reading, Watching, Listening](./projects/reading.md) 📖👀👂 (Oct 2020)
-- [Thoughts and Ramblings](./projects/thoughts.md) 🧠 (Oct 2020)
+- [Comedy](projects/comedy.md) 🎭 (Nov 2020)
+- [Writing](https://writing.charliejackson.com) 📚 (Nov 2020)
+- [Reading, Watching, Listening](./projects/reading.md) 📖👀👂 (Nov 2020)
+- [Thoughts and Ramblings](./projects/thoughts.md) 🧠 (Nov 2020)
 - Board Games 🎲
   - [Zero to Hero](projects/zero-to-hero.md) 🦸‍♂️(Oct 2020)
   - [Escape the Mad House](projects/escape-the-mad-house.md) 🏚 (Mar 2020)
@@ -23,7 +23,7 @@ The date after the project title is when that project was last updated.
   - [Random Event](projects/random-event.md) 🧙‍♂️ (Nov 2019)
   - [Tower Defense](projects/tower-defense.md) 🗼 (Sep 2019)
 - Programming Projects 💻
-  - [Personal Server](./projects/personal-server.md) 👩‍💻 (Oct 2020)
+  - [Personal Server](./projects/personal-server.md) 👩‍💻 (Nov 2020)
   - [Improv Stories](./projects/improv-stories.md) 📖 (Jun 2020)
   - [Online Performing Tools](./projects/online-performing-tools.md) 🕴 (May 2020)
   - [Board Game Builder](projects/board-game-builder.md) 🃏 (Mar 2020)
@@ -54,7 +54,7 @@ The date after the project title is when that project was last updated.
   - [indiajackson.co.uk](https://medium.com/projects-by-charlie-jackson/india-jackson-website-my-little-sisters-portfolio-eea5f901410d) (Jun 2015)
   - [Nine Line](https://medium.com/projects-by-charlie-jackson/nineline-timeline-to-help-you-track-trends-and-predictions-8b079c846bd1) (May 2015)
 - Startups
-  - [WalkUp](./projects/walkup.md) (Sep 2020)
+  - [WalkUp](./projects/walkup.md) (Nov 2020)
   - [Curious Squid](./projects/curious-squid.md) (Nov 2019)
   - [EventsTag](./projects/eventstag.md) (Feb 2018)
   - [Nine Studios](https://medium.com/projects-by-charlie-jackson/nine-studios-my-tech-startup-9cb36234e17f) (Oct 2015)
@@ -118,17 +118,31 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [Reading, Watching, Listening (2020-10-26 - 2020-11-06)](./projects/reading.md)
+  - Improv magazine, a few less wrong posts and listening to The Bayesian Conspiracy
+- [Personal Server (2020-10-26 - 2020-11-06)](./projects/personal-server.md#2020-10-26---2020-11-06)
+  - Added crons, logs and improved the folder structure
+- [Writing (2020-10-25 - 2020-11-06)](https://writing.charliejackson.com/writing/sympathy.html)
+  - Started the sympathy vs empathy post
+- [Writing (2020-10-25 - 2020-11-06)](https://writing.charliejackson.com/writing/water.html)
+  - Finished the love letter to water post
+- [Thoughts and Ramblings (2020-10-26 - 2020-11-06)](./projects/thoughts.md#2020-10-26---2020-11-06)
+  - Habit forming, motivation and all sorts of bullshit
+- [Comedy (2020-10-26 - 2020-11-06)](./projects/comedy.md#2020-10-26---2020-11-06)
+  - Had an improv comedy session on status and joined a new social network for improv
+- [WalkUp (2020-10-26 - 2020-11-06)](./projects/walkup.md#2020-10-26---2020-11-06)
+  - Managing contractors, performance and quality improvements
 - [Personal Server (2020-10-23 - 2020-10-25)](./projects/personal-server.md#2020-10-23---2020-10-25)
   - Getting it setup and building a feed for my inbox
 - [WalkUp (2020-10-11 - 2020-10-25)](./projects/walkup.md#2020-10-11---2020-10-25)
   - Figuring out process
 - [Thoughts and Ramblings (2020-10-19 - 2020-10-25)](./projects/thoughts.md#2020-10-19---2020-10-25)
   - Building routines and sticking to them
-- [Reading, Watching, Listening (2020-10-25 - 2020-10-25)](./projects/reading.md#super-human---dave-asprey-2019---finished-october-2020)
+- [Reading, Watching, Listening (2020-10-25 - 2020-10-25)](./projects/reading.md)
   - Super Human - Dave Asprey
 - [Comedy (2020-10-12 - 2020-10-25)](./projects/comedy.md#2020-10-12---2020-10-25)
   - Had an improv comedy session on linking scenes and specificity
-- [Reading, Watching, Listening (2020-10-19 - 2020-10-25)](./projects/reading.md#crystal-mentality---max-harms-2017---reading-october-2020)
+- [Reading, Watching, Listening (2020-10-19 - 2020-10-25)](./projects/reading.md)
   - Crystal Mentality - Max Harms
 - [Writing (2020-10-04 - 2020-10-25)](https://writing.charliejackson.com/writing/dying.html)
   - Finished the anxiety post
@@ -136,21 +150,21 @@ The date after the project title is when that project was last updated.
   - Chilling, board games and discipline
 - [Zero to Hero (2020-09-26 - 2020-10-18)](./projects/zero-to-hero.md#2020-09-26---2020-10-18)
   - Had a development session with Rob that went really well
-- [Reading, Watching, Listening (2020-10-11 - 2020-10-18)](./projects/reading.md#crystal-mentality---max-harms-2017---reading-october-2020)
+- [Reading, Watching, Listening (2020-10-11 - 2020-10-18)](./projects/reading.md)
   - Crystal Mentality - Max Harms
 - [Comedy (2020-10-04 - 2020-10-11)](./projects/comedy.md#2020-10-04---2020-10-11)
   - Had an improv comedy session on character
 - [WalkUp (2020-10-04 - 2020-10-11)](./projects/walkup.md#2020-10-04---2020-10-11)
   - Working hard on new features and getting annoyed with timezones.
-- [Reading, Watching, Listening (2020-10-04 - 2020-10-11)](./projects/reading.md#crystal-mentality---max-harms-2017---reading-october-2020)
+- [Reading, Watching, Listening (2020-10-04 - 2020-10-11)](./projects/reading.md)
   - Crystal Mentality - Max Harms
-- [Reading, Watching, Listening (2020-10-04 - 2020-10-11)](./projects/reading.md#what-does-it-all-mean---thomas-nagel-1987---finished-october-2020)
+- [Reading, Watching, Listening (2020-10-04 - 2020-10-11)](./projects/reading.md)
   - What Does It All Mean - Thomas Nagel
 - [Thoughts and Ramblings (2020-10-04 - 2020-10-11)](./projects/thoughts.md#2020-10-04---2020-10-11)
   - Philosophy, data privacy and the environment
 - [WalkUp (2020-09-07 - 2020-10-03)](./projects/walkup.md#2020-09-07---2020-10-03)
   - Hiring, performance, new feature development and the planning fallacy.
-- [Reading, Watching, Listening (2020-09-27 - 2020-10-03)](./projects/reading.md#what-does-it-all-mean---thomas-nagel-1987---finished-october-2020)
+- [Reading, Watching, Listening (2020-09-27 - 2020-10-03)](./projects/reading.md)
   - What Does It All Mean - Thomas Nagel
 - [Thoughts and Ramblings (2020-09-27 - 2020-10-03)](./projects/thoughts.md#2020-09-27---2020-10-03)
   - Thoughts this week on rebalancing other peoples board games and philosophy
@@ -166,13 +180,13 @@ The date after the project title is when that project was last updated.
   - Started a new post on anxiety
 - [Writing (2020-09-19 - 2020-09-26)](https://writing.charliejackson.com/writing/unusual-opinons.html)
   - Finished a draft of Unusual Opinions I have
-- [Reading, Watching, Listening (2020-09-21 - 2020-09-26)](./projects/reading.md#hell-yeah-or-no---derek-sivers-2020---finished-september-2020)
+- [Reading, Watching, Listening (2020-09-21 - 2020-09-26)](./projects/reading.md)
   - Crystal Society - Max Harms
 - [Comedy (2020-09-21 - 2020-09-26)](./projects/comedy.md#2020-09-21---2020-09-26)
   - Started the first Hoopla in person improv comedy course since COVID-19. Feels good to be back
 - [Zero to Hero (2020-09-10 - 2020-09-18)](./projects/zero-to-hero.md#2020-09-10---2020-09-18)
   - Made a funky player sheet and worked on the new rules quite a lot
-- [Reading, Watching, Listening (2020-08-01 - 2020-09-06)](./projects/reading.md#hell-yeah-or-no---derek-sivers-2020---finished-september-2020)
+- [Reading, Watching, Listening (2020-08-01 - 2020-09-06)](./projects/reading.md)
   - Hell Yeah or No - Derek Siver
 - [WalkUp (2020-06-21 - 2020-09-06)](./projects/walkup.md#2020-06-21---2020-09-06)
   - Scaling issues, performance, priorities and interns

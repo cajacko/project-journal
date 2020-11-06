@@ -15,6 +15,7 @@ In Jan 2013 I started getting into improvised comedy 😂🎭, and since have be
   - [Show History](#show-history)
   - [Courses](#courses)
   - [Updates](#updates)
+    - [2020-10-26 - 2020-11-06](#2020-10-26---2020-11-06)
     - [2020-10-12 - 2020-10-25](#2020-10-12---2020-10-25)
     - [2020-10-04 - 2020-10-11](#2020-10-04---2020-10-11)
     - [2020-09-27 - 2020-10-03](#2020-09-27---2020-10-03)
@@ -130,9 +131,15 @@ And about a dozen or so older shows I can't remember.
 
 ## Updates
 
+### 2020-10-26 - 2020-11-06
+
+Had a improv workshop on status. Which is always a fun topic to play around with. Especially switching status and status battles.
+
+Also joined the premium social network "The Improv Place" which is super fun and feels great to be part of the community again.
+
 ### 2020-10-12 - 2020-10-25
 
-Had an improve workshop on linking scenes and specificity. Super fun, got to do some proper scenes with editing which I haven't done since lockdown and it feels good. I encouraged some quite fast editing at first which I always find super fun with the right team. Although it was quite intense so we calmed down in the second run. Made me think about building a team or doing a format where the format is the timing of scenes. E.g. long, short, short, long, long, super short, short etc. Making it all about interesting pacing, managing the excitement and slow burn scenes.
+Had an improv workshop on linking scenes and specificity. Super fun, got to do some proper scenes with editing which I haven't done since lockdown and it feels good. I encouraged some quite fast editing at first which I always find super fun with the right team. Although it was quite intense so we calmed down in the second run. Made me think about building a team or doing a format where the format is the timing of scenes. E.g. long, short, short, long, long, super short, short etc. Making it all about interesting pacing, managing the excitement and slow burn scenes.
 
 ### 2020-10-04 - 2020-10-11
 
