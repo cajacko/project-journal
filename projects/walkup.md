@@ -13,7 +13,17 @@ WalkUp (WalkIn when I started) is a London based startup aiming to enable you to
 
 ## Updates 🔼
 
-<!-- Update on bookings once out -->
+### 2020-11-07 - 2020-11-16
+
+Had a new starter this week! Yay, time to share the load. This period has been a lot about process. As we grow so quickly and we don't have the money to hire for all the roles we'd love to have, we have to figure out how to share those tasks amongst the people we do have.
+
+My theory on that is to implement pretty strict processes with templates and checklists for all the tasks that we would ideally hire for. Reducing the amount of time we have to think about what we're doing and sharing the tasks between everyone instead of dumping it on an individual who wasn't hired for that.
+
+The main tasks I'd like to define processes for are "specifying tasks and acceptance criteria" and "quality assurance testing".
+
+Also want to make sure anything that goes into develop can be released. By having a better QA process before we merge branches in. Actually involving the product guys at this stage. Lots of smaller testing rather than 1 big test. Also means we can release more often.
+
+Would be good to have better changelogs as well. We enforce it, but people write notes rather than what you would expect in a nice changelog. That non devs could read.
 
 ### 2020-10-26 - 2020-11-06
 

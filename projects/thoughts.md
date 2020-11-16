@@ -4,6 +4,24 @@ This project is more just a place for me to jot down the ideas and thoughts that
 
 ## Updates 🔼
 
+### 2020-11-07 - 2020-11-16
+
+Cleaning up straight after dinner feels nice.
+
+I don't like online games. Something about it doesn't feel right. Maybe it's because I mainly play solo story based games. Or spend all day on the computer.
+
+Will my unwillingness of online games and social media be bad for accepting future society? Or being able to build things people love?
+
+The strangeness of the future will be pretty impossible to predict.
+
+There are some topics I should really get a base understanding for: Evolutionary biology, personality types, IQ, physics, history, economics
+
+I want to start spending more time off screen, so got a physical sketchbook again. Feels good. And stick to building board games. Don't need to get into video game development.
+
+At some point my job will be taken over by the machines. How much do I need to prep now for it? I could try and slowly move my focus, but that won't be as fun. It should probably be fine as long as I have my core skills: creativity, vision, management, entrepreneurship etc. And if my level of programming job goes, so many other things must have gone y this points that it would be fairly normal. And systems should be in place.
+
+It seems like it's always a good idea to spend a reasonably amount of time on internal tooling and refining processes. For me personally it's my daily/weekly journaling and automating what I can. Checklists for everything!!!
+
 ### 2020-10-26 - 2020-11-06
 
 Turns out its quite nice to chat with friends on the phone. Don't normally do that, but is surprisingly fun.

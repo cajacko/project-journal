@@ -5,7 +5,6 @@ I manage a personal server to do various admin tasks for my life. You know, like
 ## Next Steps ⏭
 
 - Fix the bugs with the Trello cron stuff
-- Ensure we're not storing ridiculous amount in firestore
 - Combine all my metrics (FitBit, Withings, Daily Metrics, meditation etc)
 - Handle my Trello automations and improve
 - Sync Gmail into Trello
@@ -13,6 +12,10 @@ I manage a personal server to do various admin tasks for my life. You know, like
 - Custom home routines
 
 ## Updates 🔼
+
+### 2020-11-07 - 2020-11-16
+
+Reduced the amount of logs I send as was going over the quota. Whoopsie.
 
 ### 2020-10-26 - 2020-11-06
 

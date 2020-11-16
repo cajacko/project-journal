@@ -2,6 +2,10 @@
 
 Sometimes I like to read, here's my notes on what I've read (or watched if it feels appropriate to go here) since the summer of 2020
 
+Rationality podcast
+
+- **Podcast** - The Bayesian Conspiracy - 116 – Truth, Falsity and Censorship (Nov 2020)
+- **Blog Post** - [How do you personally deal with "irrational" people?](https://www.lesswrong.com/posts/BYziMbEyF4kSqJuCs/non-polemic-how-do-you-personally-deal-with-irrational) (Nov 2020)
 - **Blog Post** - [Taking Ideas Seriously Is Hard](https://www.lesswrong.com/posts/8iHTPoajH5EpFq8tX/taking-ideas-seriously-is-hard) (Nov 2020)
 - **Blog Post** - [Notes On Honesty](https://www.lesswrong.com/posts/9iMMNtz3nNJ8idduF/notes-on-honesty) (Nov 2020)
 - **Magazine** - Status Impro Magazine - November 2020 issue (Nov 2020)

@@ -118,6 +118,16 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [WalkUp (2020-11-07 - 2020-11-16)](./projects/walkup.md#2020-11-07---2020-11-16)
+  - Process, process, process
+- [Thoughts and Ramblings (2020-11-07 - 2020-11-16)](./projects/thoughts.md#2020-11-07---2020-11-16)
+  - Online gaming, process and getting offline
+- [Writing (2020-11-07 - 2020-11-16)](https://writing.charliejackson.com/writing/sympathy.html)
+  - Wrote a few more drafts for this
+- [Reading, Watching, Listening (2020-11-07 - 2020-11-16)](./projects/reading.md)
+  - Improv magazine, a few less wrong posts and listening to The Bayesian Conspiracy (as normal)
+- [Personal Server (2020-11-07 - 2020-11-16)](./projects/personal-server.md#2020-11-07---2020-11-16)
+  - Reduced the amount of logs I'm saving
 - [Reading, Watching, Listening (2020-10-26 - 2020-11-06)](./projects/reading.md)
   - Improv magazine, a few less wrong posts and listening to The Bayesian Conspiracy
 - [Personal Server (2020-10-26 - 2020-11-06)](./projects/personal-server.md#2020-10-26---2020-11-06)
