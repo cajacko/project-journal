@@ -13,6 +13,18 @@ WalkUp (WalkIn when I started) is a London based startup aiming to enable you to
 
 ## Updates 🔼
 
+### 2020-11-17 - 2020-11-23
+
+Had a big week of testing our new bookings functionality and fixing bugs. Had a bit of a bottleneck with having lots of PR's ready at the same time and waiting for builds to finish before merging in. Trying to have all PR's signed off by the product team before they can be merged may help with this. As it staggers merges. Means we don't save up lots of stuff for a release (as releases should be able to happen at any time), and should catch issues earlier.
+
+Did a lot of thinking and writing out some draft flows around our process. How do we specify tasks, add enough acceptance criteria, get them tested and relay feedback on progress. It's normally the project manager role but we all need to take some of that responsibility until we have one. Maybe it's a role we could look at someone like Frazer helping us out with? He is the COO?
+
+When giving people responsibility I need to be a bit more precise and direct. It's like that group bias where asking anyone in a group to do something isn't very effective, but pointing to an individual in the group and asking them is much more effective.
+
+It can be better to show rather than tell, when explaining something (https://en.wikipedia.org/wiki/Show,_don%27t_tell), I think I do this quite a lot with code examples, but it's useful to have come across it in some of my reading and realising the importance of it.
+
+There's also been a few moments in the last week where I feel like I could have been much more concise in explaining my thoughts on something. It's part of the downside of thinking through talking. But giving more pause between thoughts might help. It feels a bit like falling into the classic programmer fault of over explaining and boring people with detail. Something to watch out for.
+
 ### 2020-11-07 - 2020-11-16
 
 Had a new starter this week! Yay, time to share the load. This period has been a lot about process. As we grow so quickly and we don't have the money to hire for all the roles we'd love to have, we have to figure out how to share those tasks amongst the people we do have.

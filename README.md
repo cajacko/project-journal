@@ -118,6 +118,8 @@ The date after the project title is when that project was last updated.
 - Something current in progress should have (in progress) written as the tag line
 -->
 
+- [WalkUp (2020-11-17 - 2020-11-23)](./projects/walkup.md#2020-11-17---2020-11-23)
+  - Testing, more process and rambling
 - [WalkUp (2020-11-07 - 2020-11-16)](./projects/walkup.md#2020-11-07---2020-11-16)
   - Process, process, process
 - [Thoughts and Ramblings (2020-11-07 - 2020-11-16)](./projects/thoughts.md#2020-11-07---2020-11-16)
